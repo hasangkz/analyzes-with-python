@@ -1,0 +1,1266 @@
+Herbal medicine is the use of medicinal plants for prevention and treatment of diseases: it
+ranges from traditional and popular medicines of every country to the use of standardized and
+tritated herbal extracts. Generally cultural rootedness enduring and widespread use in a
+Traditional Medical System may indicate safety, but not efficacy of treatments, especially in
+herbal medicine where tradition is almost completely based on remedies containing active principles at very low and ultra low concentrations, or relying on magical-energetic principles.
+In the age of globalization and of the so-called ‘plate world’, assessing the ‘transferability’ of
+treatments between different cultures is not a relevant goal for clinical research, while are the
+assessment of efficacy and safety that should be based on the regular patterns of mainstream
+clinical medicine.
+The other black box of herbal-based treatments is the lack of definite and complete information
+about the composition of extracts. Herbal derived remedies need a powerful and deep
+assessment of their pharmacological qualities and safety that actually can be realized by new
+biologic technologies like pharmacogenomic, metabolomic and microarray methology. Because
+of the large and growing use of natural derived substances in all over the world, it is not wise to
+rely also on the tradition or supposed millenarian beliefs; explanatory and pragmatic studies are
+useful and should be considered complementary in the acquisition of reliable data both for
+health caregiver and patients.
+Keywords: evidence based medicince – explanatory trials – herbal medicine – mainstream
+medicine – phytotherapy – pragmatic trials – traditional medical system – traditional medicine
+Herbs are natural products and their chemical composition varies depending on several factors and therefore
+varying from people to people, from energetic decoctions
+to the use of herbal extracts following Western methodologies of mainstream medicine. Traditional medicines
+has a very long history: it is the sum total of the practices
+based on the theories, beliefs and experiences of different
+cultures and times, often inexplicable, used in the maintenance of health, as like in the prevention, diagnosis,
+improvement and treatment of illnesses.
+In every country traditional medicines find foundation
+in magical or religious beliefs, or popular experience and
+the World Health Organization is engaged to establish
+definitive guidelines for methodology of clinical research
+and the appraisal of effectiveness of traditional medicine
+European Traditional Herbalism
+For centuries traditional medical systems (TMS) were the
+primary medical system in the countries of origin, and
+now nevertheless the present dominance of the Western
+scientific medical model, citizens and health-caregivers
+are starting to rely and trust TMS substituting conventional scientifically proved therapies with unconventional
+ones. Generally cultural rootedness enduring and widespread use of TMS may indicate safety, but not the
+efficacy of the treatments especially in herbal medicines
+where tradition is almost completely based on remedies
+containing active principles at very low and ultra low
+For reprints and all correspondence: Fabio Firenzuoli, MD, Center of
+Natural Medicine, Director S. Giuseppe Hospital, Via Paladini 40 –
+50053 Empoli, Italy. Tel: +39-0571-702601; Fax: +39-0571-702639;
+E-mail: f.firenzuoli@usl11.toscana.it
+ 2007 The Author(s).
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/
+licenses/by-nc/2.0/uk/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is
+properly cited.
+concentrations, or relying on magical-energetic properties
+of sun, moon, etc.
+In European traditional herbalism categories similar
+to Asiatic medicines, referring to ‘humoral-energetic
+doctrines’ that has qualities (like heat, cold, dry,
+humid), and elements (fire, air, water, earth, etc.) are
+used. European popular medicine still counsel the
+so-called depurative plants for treatment of dermatological illnesses, like psoriasis or eczemas, like it were due to
+intoxications, as well as diuretic plants for arthritis, or a
+decoction of Stachys (called ‘herb of fear’) used as bath
+to wash out fears, or hay baths as treatment of cancer.
+A discussion on methodologies for research and
+evaluation of traditional medicine should be divided in
+two parts: herbal medicines and traditional procedurebased therapies.
+Herbal medicine has become a popular form of
+healthcare; even though several differences exist between
+herbal and conventional pharmacological treatments,
+herbal medicine needs to be tested for efficacy using
+conventional trial methodology and several specific
+herbal extracts have been demonstrated to be efficacious
+for specific conditions. Nevertheless the public is often
+misleded to believe that all natural treatments are
+inherently safe, herbal medicines do carry risks, so
+research in this area must be intensified. The main question that has not been often answered satisfactorily deal
+with the triad absorption/metabolism/efficacy of herbs
+and their extracts and is actually an important unsolved
+problem in judging their many alleged health effects (1).
+Mind–body medicine can be considered as a complementary or an alternative mode to traditional Western
+medicine, and a variety of other modes of interventions
+that are presently used in a CAM paradigm may act in
+large part via the mind–body connection (2); and in this
+sense trusting in the traditional principles of a medicine
+that is deeply rooted in a culture can represent a type of
+mind-body connection having a real pharmacological
+activity through a placebo like effect. So a successful
+treatment is often the consequence of both types of
+treatments acting synergistically, nevertheless efficacy
+assessment of traditional medicines cannot be different
+from that of conventional medicine.
+Long-term use of medicinal herbs enables a process of
+selection but limited and only partial, of short and
+medium-term safe remedies, that however does not match
+with modern issues relatives to the interferences with
+synthetic drugs. Treatment selection is often limited
+because of the multiple meaning of efficacy in relation
+to pathology and diseases in different cultures.
+The transfer of a medical concept to a new country
+may be really misleading and lead to deep modifications
+of its medical-therapeutic and cultural essence, especially
+if a remedy is part of a TMS, and modifications follow
+adaptation to local conditions and cultural habits. These
+modifications may deeply vary in extension, but probably
+years or just moths after migration a TMS can have
+absorbed cultural influences form the host country (3).
+Efficacy and Effectiveness of a Traditional
+Herbal Remedy
+To evaluate the efficacy, effectiveness and safety of a
+traditional herbal remedy requires answers to some basic
+questions:
+(i) Which treatment should be studied?
+(ii) Can it be studied following the patterns of modern
+science protocols?
+(iii) Is it scientifically correct to transfer a remedy
+directly in another country?
+(iv) Does already exist a conventional treatment safe
+and effective?
+(v) Is ethically correct to study that type of remedy?
+Several factors are important in determining the outcome
+of any traditional treatment, both in experimental and
+clinical settings including forma mentis, beliefs, knowledge and practical abilities of the provider, as well as the
+positive or negative prejudices of the patient with respect
+to the provider of the therapy, cultural differences in the
+acceptability of the treatment and adherence to it, the
+patient–doctor encounter, and differences in access to
+other treatments (4). In the age of globalization and of
+the so-called ‘plate world’, assessing the ‘transferability’
+of treatments in herbal medicines is not a relevant goal
+for clinical research, while efficacy and safety should be
+based on the normal patterns of mainstream clinical
+medicine. The CONSORT statement for trials of herbal
+medicines (5) can be a very important paradigm to
+follow; and in fact it elaborated 9 of the 22 CONSORT
+checklist items to enhance their relevance to trials of
+Table 1. Traditional vs. Scientific knowledge
+Traditional Use of Herbs Scientific Use
+ Every people use typical
+plants or parts of these, often
+with different indications, as
+juices, decoction or pills.
+ Use of proper extractive and
+pharmaceuticals preparation of
+plants.
+ Generally are used mixtures
+of many plants (often more than
+10 together!), thought synergic.
+Products often do not contain any
+reference to the chemical constituents nor extraction technique.
+ Generally used purified and
+standardized in the chemical
+constituents that have a pharmacological activity, and are
+used as symptomatic, for prevention or treatment.  Generally believed safe and
+without any adverse reaction.
+ Possible side effects, contraindications, drugs interactions,
+etc.
+ Pathogenesis of illnesses
+and therapy are often based on
+philosophic, religious and sociocultural conception, and are
+referred to the character and
+emotions of a patient (holism).
+ Diagnostic and therapeutic
+methodology follows the rules
+of mainstream medicine, because
+the reference for clinical administration is only the pharmacological activity based on
+conventional laboratory techniques and clinical trials.
+38 Herbal medicine today: clinical and research issues
+herbal interventions, including minor recommendations
+for eight items. Besides, Nahin and Straus from the
+National Center of Complementary and Alternative
+Medicine (NCCAM) proposed a pragmatic schema for
+allocation of resources in the USA. The authors
+recommend five criteria: quantity and quality of available
+preliminary data to help determine the most appropriate
+type of research; extent of use by the public; public health
+importance of the disease being treated; feasibility of
+conducting the research; cost of the research (6).
+It is very important to keep in mind the differences
+between explanatory and pragmatic studies, and the
+concepts of efficacy and effectiveness (7); efficacy is the
+benefit a treatment produces under ideal conditions,
+often using carefully defined subjects, while effectiveness
+defines the benefit the treatment produces in routine
+clinical practice (8). Explanatory trials evaluate the
+efficacy of a treatment under controlled conditions that
+optimize isolation of the treatment effect through design
+features, such as a control or placebo, randomization,
+standardized protocols, homogeneous samples, blindness;
+these type of studies often represent the treatment of a
+particular patient, that is not the usual patient that enter
+a medical office. Pragmatic studies do not provide
+conclusive information on the specificity of the treatment
+effect but they have some interesting characteristics.
+Pragmatic studies in Traditional Medicine
+Pragmatic trials (PT) are designed to find out about how
+effective a treatment actually is in everyday practice; while
+explanatory trials are designed to find out whether a
+treatment has any efficacy, almost always compared with
+placebo under ideal conditions. PT answers questions about
+the overall effectiveness of an intervention, and cannot
+study the contributions of its different components.
+The participant to these studies will need to be representative of the wider population because results need to be
+generalized; so wide criteria of inclusion are needed, so that
+patients having more medical diseases or taking different
+medications are included. It would be more satisfactory and
+sensible to choose conditions where conventional treatment
+is often unsatisfactory like irritable bowel syndrome or
+panic crises. In PT it is not usually mandatory to use a
+placebo, while it is needed with both arms of the trial on
+normal practice, since the aim is to produce an evidence to
+facilitate a real practical choice. The treatment protocol is
+more complex because patients with wider criteria are
+included, so is necessary a larger sample of patients, and
+may need a handbook that defines parameters for treatment
+(9). The main advantage of PT is that they can deliver
+evidence of effectiveness directly in clinical practice (10).
+Nevertheless they have important methodological limits:
+most of all the lack of placebo and blindness, increased
+costs, the need of several therapists, more complexity and
+lack of clarification about the mechanism of action; but PT
+should be seen not as an alternative to explanatory studies,
+but as a mandatory complement that define and improve
+evidence primarily coming from explanatory trials, the only
+one that can reliably confirm efficacy.
+The Chemical Constituents of
+Herbal Remedies
+The other black box of herbal-based treatments is the
+lack of information about the composition of the remedy.
+Herbs are natural products and their chemical composition varies depending on several factors, such as
+botanical species, used chemotypes, the anatomical part
+Table 2. European medicinal plants from traditional uses to scientific knowledge
+Medicinal plant Traditional uses Scientific knowledge
+Bergamot (Citrus bergamia) Fragrances, disinfectant,
+healer
+Photosensitizer, Mutagencancerous
+Chaste tree (Vitex Agnus castus L.) Anxiety, convalescence
+sexual sedative
+Premenstrual syndrome
+Coltsfoot (Tussilago fanfara L.) Cough sedative Hepatotoxic and Mutagenic
+alkaloids
+Garlic (Allium sativum L.) Influenza and diarrhea,
+aphrodisiac and abortive.
+Used against parasites and witches
+Platelet antiaggregant.
+Hypolipidemic and hypotensive
+herbal remedy
+Greater celandine (Chelidonium majus) Hepatobiliary diseases
+(yellow latex for yellow bile)
+Hepatotoxic
+Germander (Teucrium chamaedrys L.) Depurative, digestive,
+slimming
+Hepatotoxic
+Marigold (Calendula officinalis L) Hemmenagogus, liver
+depurative gastric ulcer,
+dysmenorrea
+Hemollient and healer
+(only topic use)
+St Jhon’s wort (Hypericum
+perforatum L.)
+Burns, gastritis, magical uses Antidepressant, Induction of CYP3A
+eCAM 2007;4(S1) 39
+of the plant used (seed, flower, root, leaf, and so on)
+and also storage, sun, humidity, type of ground, time of
+harvest, geographic area; and merchandized products
+containing on the label the same product varying in their
+content and concentrations of chemical constituents from
+batch to batch; and even the same manufacturer can
+merchandize in different periods products containing
+different substances although standardized to achieve a
+high pharmaceutical quality. This variability can result in
+significant differences in pharmacological activity: involving both pharmacodynamic and pharmacokinetic issues.
+Adverse and side effects is another open problem,
+because in citizens still prevail the respect for everything
+that is natural tout court, more as a cultural-fashionbased choice than thinking that the patient is introducing
+in his/her body chemical substances of vegetal origin; not
+knowing that salicylic glucosides and lactonic sesquiterpenes of many Compositae are often responsible of
+allergic reactions; that some constituents of plants are
+cancerogenic like safrole, bergapten and pyrrolizidines
+alkaloids. Not of minor importance especially for the old
+patient using contemporary more synthetic drugs is the
+problem of drug interferences; some plants reduce or
+improve the bioavailability of some drugs due to
+induction or inhibition of cytochromes (St. John’s Wort
+extracts, grapefruit juice, and so on). Moreover the use of
+herbal extracts during pregnancy or lactaction should
+undergo strict medical supervision because many herbs
+have not been studied neither in pregnant mice.
+Advances in high-throughput experimentations have
+resulted in massive databases of genomic, proteomic and
+chemical data which in combination with efficient
+separation methods and powerful spectrometric methods
+for identification and structure elucidation can be used
+for identification of active compounds (11). A powerful
+and deep biological approach that integrates such large
+and diverse sources of information together actually
+needs to fully understand the pharmacological effects
+of natural products; and DNA microarrays may provide
+a suitable high-throughput platform for research and
+development of drugs from natural products (11). There
+are three main applications of DNA microarrays: in
+pharmacodynamics for discovery of new drugs; in pharmacogenomics for prediction of side-effects; in pharmacognosy for correct botanical identification and authentication
+of crude plant materials as part of standardization and
+quality control (11).
+Conclusions
+Herbal-derived remedies need a powerful and deep
+assessment of their pharmacological qualities and safety
+issues due to the large and growing use of natural-derived
+substances all over the world, which cannot rely only on
+the tradition or supposed millenarian beliefs; explanatory
+and pragmatic studies are useful and complementary in
+the acquisition of reliable data both for health caregiver
+and patients
+Evidence-based medicine (EBM) was first conceived by
+Archibald Cochrane as a cultural and methodological
+approach to clinical practice to make decisions; based on
+clinical expertise and the most intimate knowledge of the
+individual patient’s clinical situations, it de-emphasizes
+unsystematic clinical experience as ground for medical
+decision-making, and stresses the rigorous analysis of
+evidence from clinical research. An important problematic of EBM is the difficulty to be easily applied in
+everyday practice, in a ABC system, especially in the field
+of complementary medicine, and probably pragmatic
+studies can be a useful tool in reaching this major
+objective as part of the systematic process of knowledge.
+The quality, reliability and possibility of publishing
+a study are decisively influenced by the selection
+of a proper study design. The study type is a component
+of the study design (see the article "Study Design in
+Medical Research") and must be specified before the
+study starts. The study type is determined by the question
+to be answered and decides how useful a scientific study
+is and how well it can be interpreted. If the wrong study
+type has been selected, this cannot be rectified once the
+study has started.
+After an earlier publication dealing with aspects of
+study design, the present article deals with study types in
+primary and secondary research. The article focuses on
+study types in primary research. A special article will be
+devoted to study types in secondary research, such as
+meta-analyses and reviews. This article covers the classification of individual study types. The conception,
+implementation, advantages, disadvantages and possibilities of using the different study types are illustrated
+by examples. The article is based on a selective literature
+research on study types in medical research, as well as
+the authors' own experience.
+Classification of study types
+In principle, medical research is classified into primary
+and secondary research. While secondary research summarizes available studies in the form of reviews and
+meta-analyses, the actual studies are performed in
+primary research. Three main areas are distinguished:
+basic medical research, clinical research, and epidemiological research. In individual cases, it may be difficult
+to classify individual studies to one of these three main
+categories or to the subcategories. In the interests of
+clarity and to avoid excessive length, the authors will
+dispense with discussing special areas of research, such
+as health services research, quality assurance, or clinical
+epidemiology. Figure 1 gives an overview of the different study types in medical research.
+Basic research
+Basic medical research (otherwise known as experimental research) includes animal experiments, cell
+studies, biochemical, genetic and physiological investigations, and studies on the properties of drugs and
+materials. In almost all experiments, at least one
+ORIGINAL ARTICLE
+Types of Study in Medical Research
+Part 3 of a Series on Evaluation of Scientific Publications
+Bernd Röhrig, Jean-Baptist du Prel, Daniel Wachtlin, Maria Blettner
+MDK Rheinland-Pfalz, Referat Rehabilitation/Biometrie, Alzey: Dr. rer. nat. Röhrig
+Zentrum für Präventive Pädiatrie, Zentrum für Kinder- und Jugendmedizin,
+Mainz: Dr. med. du Prel
+Interdisziplinäres Zentrum Klinische Studien (IZKS), Fachbereich Medizin der
+Universität Mainz: Daniel Wachtlin
+Institut für Medizinische Biometrie, Epidemiologie und Informatik (IMBEI),
+Johannes Gutenberg Universität Mainz: Univ.-Direktorin: Prof. Dr. rer. nat. Maria
+Blettner
+SUMMARY
+Background: The choice of study type is an important
+aspect of the design of medical studies. The study design
+and consequent study type are major determinants of
+a study’s scientific quality and clinical value.
+Methods: This article describes the structured classification
+of studies into two types, primary and secondary, as well
+as a further subclassification of studies of primary type.
+This is done on the basis of a selective literature search
+concerning study types in medical research, in addition to
+the authors’ own experience.
+Results: Three main areas of medical research can be
+distinguished by study type: basic (experimental), clinical,
+and epidemiological research. Furthermore, clinical and
+epidemiological studies can be further subclassified as
+either interventional or noninterventional.
+Conclusions: The study type that can best answer the
+particular research question at hand must be determined
+not only on a purely scientific basis, but also in view of the
+available financial resources, staffing, and practical
+feasibility (organization, medical prerequisites, number of
+patients, etc.). Dtsch Arztebl Int 2009; 106(15): 262–8
+DOI: 10.3238/arztebl.2009.0262
+Key words: study type, basic research, clinical research,
+epidemiology, literature search
+263 Deutsches Ärzteblatt International?Dtsch Arztebl Int 2009; 106(15): 262–8
+MEDICINE
+independent variable is varied and the effects on the
+dependent variable are investigated. The procedure and
+the experimental design can be precisely specified and
+implemented (1). For example, the population, number
+of groups, case numbers, treatments and dosages can be
+exactly specified. It is also important that confounding
+factors should be specifically controlled or reduced. In
+experiments, specific hypotheses are investigated and
+causal statements are made. High internal validity
+(= unambiguity) is achieved by setting up standardized
+experimental conditions, with low variability in the
+units of observation (for example, cells, animals or
+materials). External validity is a more difficult issue.
+Laboratory conditions cannot always be directly transferred to normal clinical practice and processes in isolated cells or in animals are not equivalent to those in
+man (= generalizability) (2).
+Basic research also includes the development and
+improvement of analytical procedures—such as analytical
+determination of enzymes, markers or genes—, imaging
+procedures—such as computed tomography or magnetic
+resonance imaging—, and gene sequencing—such as
+the link between eye color and specific gene sequences.
+The development of biometric procedures—such as
+statistical test procedures, modeling and statistical evaluation strategies—also belongs here.
+Clinical studies
+Clinical studies include both interventional (or experimental) studies and noninterventional (or observational)
+studies. Aclinical drug study is an interventional clinical
+study, defined according to §4 Paragraph 23 of the
+Medicines Act [Arzneimittelgesetz; AMG] as "any study
+performed on man with the purpose of studying or
+demonstrating the clinical or pharmacological effects of
+drugs, to establish side effects, or to investigate absorption, distribution, metabolism or elimination, with the
+aim of providing clear evidence of the efficacy or safety
+of the drug."
+Interventional studies also include studies on medical
+devices and studies in which surgical, physical or psychotherapeutic procedures are examined. In contrast to
+clinical studies, §4 Paragraph 23 of the AMG describes
+noninterventional studies as follows: "Anoninterventional
+study is a study in the context of which knowledge from
+the treatment of persons with drugs in accordance with
+the instructions for use specified in their registration is
+analyzed using epidemiological methods. The diagnosis,
+treatment and monitoring are not performed according
+to a previously specified study protocol, but exclusively
+according to medical practice."
+The aim of an interventional clinical study is to compare treatment procedures within a patient population,
+Classification of different study types
+*1, sometimes known as experimental research; *2, analogous term: interventional; *3, analogous term: noninterventional or nonexperimental
+FIGURE 1
+This scheme is intended to
+classify the study types as
+clearly as possible. In the
+interests of clarity, we have
+excluded clinical epidemiology
+—a subject which borders on
+both clinical and epidemiological
+research (3). The study types
+in this area can be found
+under clinical research and
+epidemiology.
+Deutsches Ärzteblatt International?Dtsch Arztebl Int 2009; 106(15):262–8 264
+MEDICINE
+which should exhibit as few as possible internal differences, apart from the treatment (4, e1). This is to be
+achieved by appropriate measures, particularly by random
+allocation of the patients to the groups, thus avoiding
+bias in the result. Possible therapies include a drug, an
+operation, the therapeutic use of a medical device such
+as a stent, or physiotherapy, acupuncture, psychosocial
+intervention, rehabilitation measures, training or diet.
+Vaccine studies also count as interventional studies in
+Germany and are performed as clinical studies according
+to the AMG.
+Interventional clinical studies are subject to a
+variety of legal and ethical requirements, including the
+Medicines Act and the Law on Medical Devices. Studies
+with medical devices must be registered by the responsible authorities, who must also approve studies with
+drugs. Drug studies also require a favorable ruling
+from the responsible ethics committee. A study must
+be performed in accordance with the binding rules of
+Good Clinical Practice (GCP) (5, e2–e4). For clinical
+studies on persons capable of giving consent, it is
+absolutely essential that the patient should sign a
+declaration of consent (informed consent) (e2). Acontrol
+group is included in most clinical studies. This group
+receives another treatment regimen and/or placebo—a
+therapy without substantial efficacy. The selection of
+the control group must not only be ethically defensible,
+but also be suitable for answering the most important
+questions in the study (e5).
+Clinical studies should ideally include randomization,
+in which the patients are allocated by chance to the
+therapy arms. This procedure is performed with random
+numbers or computer algorithms (6–8). Randomization
+ensures that the patients will be allocated to the different
+groups in a balanced manner and that possible
+confounding factors—such as risk factors, comorbidities
+and genetic variabilities—will be distributed by chance
+between the groups (structural equivalence) (9, 10).
+Randomization is intended to maximize homogeneity
+between the groups and prevent, for example, a specific
+therapy being reserved for patients with a particularly
+favorable prognosis (such as young patients in good
+physical condition) (11).
+Blinding is another suitable method to avoid bias. A
+distinction is made between single and double blinding.
+With single blinding, the patient is unaware which treatment he is receiving, while, with double blinding, neither
+the patient nor the investigator knows which treatment
+is planned. Blinding the patient and investigator excludes
+possible subjective (even subconscious) influences on
+the evaluation of a specific therapy (e.g. drug administration versus placebo). Thus, double blinding ensures
+that the patient or therapy groups are both handled and
+observed in the same manner. The highest possible
+degree of blinding should always be selected. The study
+statistician should also remain blinded until the details
+of the evaluation have finally been specified.
+A well designed clinical study must also include case
+number planning. This ensures that the assumed therapeutic effect can be recognized as such, with a previously
+Graphical depiction of a prospective cohort study (simplest case [2a])
+and a retrospective case control study (2b)
+FIGURE 2
+265 Deutsches Ärzteblatt International?Dtsch Arztebl Int 2009; 106(15): 262–8
+MEDICINE
+specified statistical probability (statistical power) (4, 6,
+12).
+It is important for the performance of a clinical trial
+that it should be carefully planned and that the exact
+clinical details and methods should be specified in the
+study protocol (13). It is, however, also important that
+the implementation of the study according to the protocol,
+as well as data collection, must be monitored. For a first
+class study, data quality must be ensured by double data
+entry, programming plausibility tests, and evaluation by
+a biometrician. International recommendations for the
+reporting of randomized clinical studies can be found in
+the CONSORT statement (Consolidated Standards of
+Reporting Trials, www.consort-statement.org) (14).
+Many journals make this an essential condition for
+publication.
+For all the methodological reasons mentioned above
+and for ethical reasons, the randomized controlled and
+blinded clinical trial with case number planning is
+accepted as the gold standard for testing the efficacy and
+safety of therapies or drugs (4, e1, 15).
+In contrast, noninterventional clinical studies (NIS)
+are patient-related observational studies, in which
+patients are given an individually specified therapy.
+The responsible physician specifies the therapy on the
+basis of the medical diagnosis and the patient's wishes.
+NIS include noninterventional therapeutic studies,
+prognostic studies, observational drug studies, secondary
+data analyses, case series and single case analyses (13,
+16). Similarly to clinical studies, noninterventional
+therapy studies include comparison between therapies;
+however, the treatment is exclusively according to
+the physician’s discretion. The evaluation is often
+retrospective. Prognostic studies examine the influence
+of prognostic factors (such as tumor stage, functional
+state, or body mass index) on the further course of a
+disease. Diagnostic studies are another class of
+observational studies, in which either the quality of a
+diagnostic method is compared to an established
+method (ideally a gold standard), or an investigator is
+compared with one or several other investigators (interrater comparison) or with himself at different time
+points (intra-rater comparison) (e1). If an event is very
+rare (such as a rare disease or an individual course of
+treatment), a single-case study, or a case series, are
+possibilities. A case series is a study on a larger patient
+group with a specific disease. For example, after the
+discovery of the AIDS virus, the Center for Disease
+Control (CDC) in the USA collected a case series of
+1000 patients, in order to study frequent complications
+of this infection. The lack of a control group is a disadvantage of case series. For this reason, case series are
+primarily used for descriptive purposes (3).
+Epidemiological studies
+The main point of interest in epidemiological studies is
+to investigate the distribution and historical changes in
+the frequency of diseases and the causes for these. Analogously to clinical studies, a distinction is made between experimental and observational epidemiological
+studies (16, 17).
+Interventional studies are experimental in character
+and are further subdivided into field studies (sample
+from an area, such as a large region or a country) and
+group studies (sample from a specific group, such as a
+specific social or ethnic group). One example was the
+investigation of the iodine supplementation of cooking
+salt to prevent cretinism in a region with iodine deficiency. On the other hand, many interventions are
+unsuitable for randomized intervention studies, for
+ethical, social or political reasons, as the exposure may
+be harmful to the subjects (17).
+Observational epidemiological studies can be further
+subdivided into cohort studies (follow-up studies), case
+TABLE 1
+Specially well suited study types for epidemiological investigations (taken from [e8])
+Study objective Study type
+Study of rare diseases such as Case control studies
+cancers
+Study of rare exposure, such as exposure to Cohort studies in a population group in which there has been
+industrial chemicals exposure (e.g. industrial workers)
+Study of multiple exposures, such as Case control studies
+the combined effect of oral contraceptives
+and smoking on myocardial infarction
+Study of multiple end points, such as mortality Cohort studies
+from different causes
+Estimate of the incidence rate in exposed Exclusively cohort studies
+populations
+Study of covariables which change Preferably cohort studies
+over time
+Study of the effect of interventions Intervention studies
+Deutsches Ärzteblatt International?Dtsch Arztebl Int 2009; 106(15):262–8 266
+MEDICINE
+control studies, cross-sectional studies (prevalence
+studies), and ecological studies (correlation studies or
+studies with aggregated data).
+In contrast, studies with only descriptive evaluation
+are restricted to a simple depiction of the frequency (incidence and prevalence) and distribution of a disease
+within a population. The objective of the description
+may also be the regular recording of information (monitoring, surveillance). Registry data are also suited for
+the description of prevalence and incidence; for example,
+they are used for national health reports in Germany.
+In the simplest case, cohort studies involve the observation of two healthy groups of subjects over time. One
+group is exposed to a specific substance (for example,
+workers in a chemical factory) and the other is not exposed. It is recorded prospectively (into the future) how
+often a specific disease (such as lung cancer) occurs in
+the two groups (figure 2a). The incidence for the occurrence of the disease can be determined for both groups.
+Moreover, the relative risk (quotient of the incidence
+rates) is a very important statistical parameter which can
+be calculated in cohort studies. For rare types of exposure,
+the general population can be used as controls (e6). All
+evaluations naturally consider the age and gender distributions in the corresponding cohorts. The objective of
+cohort studies is to record detailed information on the
+exposure and on confounding factors, such as the duration of employment, the maximum and the cumulated
+exposure. One well known cohort study is the British
+Doctors Study, which prospectively examined the effect
+of smoking on mortality among British doctors over a
+period of decades (e7). Cohort studies are well suited for
+detecting causal connections between exposure and the
+development of disease. On the other hand, cohort studies
+often demand a great deal of time, organization, and
+money. So-called historical cohort studies represent a
+special case. In this case, all data on exposure and effect
+(illness) are already available at the start of the study and
+are analyzed retrospectively. For example, studies of
+this sort are used to investigate occupational forms of
+cancer. They are usually cheaper (16).
+In case control studies, cases are compared with controls. Cases are persons who fall ill from the disease in
+question. Controls are persons who are not ill, but are
+otherwise comparable to the cases. A retrospective analysis is performed to establish to what extent persons in
+the case and control groups were exposed (figure 2b).
+Possible exposure factors include smoking, nutrition
+and pollutant load. Care should be taken that the intensity
+and duration of the exposure is analyzed as carefully and
+in as detailed a manner as possible. If it is observed that
+ill people are more often exposed than healthy people, it
+may be concluded that there is a link between the illness
+and the risk factor. In case control studies, the most
+important statistical parameter is the odds ratio. Case
+control studies usually require less time and fewer
+resources than cohort studies (16). The disadvantage of
+case control studies is that the incidence rate (rate of
+new cases) cannot be calculated. There is also a great
+risk of bias from the selection of the study population
+("selection bias") and from faulty recall ("recall bias")
+(see too the article "Avoiding Bias in Observational
+Studies"). Table 1 presents an overview of possible
+types of epidemiological study (e8). Table 2 summarizes
+the advantages and disadvantages of observational
+studies (16).
+Discussion
+Selecting the correct study type is an important aspect of
+study design (see "Study Design in Medical Research" in
+volume 11/2009). However, the scientific questions can
+only be correctly answered if the study is planned and
+performed at a qualitatively high level (e9). It is very important to consider or even eliminate possible interfering
+TABLE 2
+Advantages and disadvantages of observational studies (taken from [16])*
+Ecological study Cross-sectional study Case control study Cohort study
+Selection bias N/A 2 3 1
+Recall bias N/A 3 3 1
+Loss to follow-up N/A N/A 1 3
+Confounding 3 2 2 1
+Time required 1 2 2 3
+Costs 1 2 2 3
+1 = slight; 2 = moderate; 3 = high; N/A, not applicable.
+*Individual cases may deviate from this pattern.
+267 Deutsches Ärzteblatt International?Dtsch Arztebl Int 2009; 106(15): 262–8
+MEDICINE
+factors (or confounders), as otherwise the result cannot
+be adequately interpreted. Confounders are characteristics
+which influence the target parameters. Although this
+influence is not of primary interest, it can interfere with
+the connection between the target parameter and the factors that are of interest. The influence of confounders can
+be minimized or eliminated by standardizing the procedure, stratification (18), or adjustment (19).
+The decision as to which study type is suitable to
+answer a specific primary research question must be
+based not only on scientific considerations, but also on
+issues related to resources (personnel and finances),
+hospital capacity, and practicability. Many epidemiological studies can only be implemented if there is
+access to registry data. The demands for planning,
+implementation, and statistical evaluation for observational studies should be just as high for observational
+studies as for experimental studies. There are particularly
+strict requirements, with legally based regulations (such
+as the Medicines Act and Good Clinical Practice), for
+the planning, implementation, and evaluation of clinical
+studies. A study protocol must be prepared for both
+interventional and noninterventional studies (6, 13). The
+study protocol must contain information on the conditions, question to be answered (objective), the methods
+of measurement, the implementation, organization, study
+population, data management, case number planning,
+the biometric evaluation, and the clinical relevance of
+the question to be answered (13).
+Important and justified ethical considerations may
+restrict studies with optimal scientific and statistical features. A randomized intervention study under strictly
+controlled conditions of the effect of exposure to harmful factors (such as smoking, radiation, or a fatty diet) is
+not possible and not permissible for ethical reasons.
+Observational studies are a possible alternative to interventional studies, even though observational studies are
+less reliable and less easy to control (17).
+A medical study should always be published in a peer
+reviewed journal. Depending on the study type, there
+are recommendations and checklists for presenting the
+results. For example, these may include a description of
+the population, the procedure for missing values and
+confounders, and information on statistical parameters.
+Recommendations and guidelines are available for
+clinical studies (14, 20, e10, e11), for diagnostic studies
+(21, 22, e12), and for epidemiological studies (23, e13).
+Since 2004, the WHO has demanded that studies should
+be registered in a public registry, such as www.controlledtrials.com or www.clinicaltrials.gov. This demand is
+supported by the International Committee of Medical
+Journal Editors (ICMJE) (24), which specifies that the
+registration of the study before inclusion of the first subject is an essential condition for the publication of the
+study results (e14).
+When specifying the study type and study design for
+medical studies, it is essential to collaborate with an
+experienced biometrician. The quality and reliability of
+the study can be decisively improved if all important
+details are planned together (12, 25)
+Introduction
+Traditional herbal medicines are
+naturally occurring, plant-derived
+substances with minimal or no industrial
+processing that have been used to treat
+illness within local or regional healing
+practices. Traditional herbal medicines
+are getting significant attention in global
+health debates. In China, traditional
+herbal medicine played a prominent
+role in the strategy to contain
+and treat severe acute respiratory
+syndrome (SARS).1
+ Eighty per cent of
+African populations use some form
+of traditional herbal medicine,2,3 and
+the worldwide annual market for these
+products approaches US$ 60 billion.2
+Many hope traditional herbal medicine
+research will play a critical role in
+global health. China, India, Nigeria,
+the United States of America (USA)
+and WHO have all made substantial
+research investments in traditional
+herbal medicines.2
+ Industry has also
+invested millions of US dollars looking
+for promising medicinal herbs and
+novel chemical compounds.4,5 This is
+still a relatively modest investment
+compared to the overall pharmaceutical
+industry; however, it raises interesting
+ethical questions, some of which are
+not faced in more conventional drug
+development.
+As attention and public funding
+for international traditional herbal
+medicine research collaborations
+grows, more detailed analysis of ethical
+issues in this research is warranted.
+Scant literature has addressed selected
+issues such as informed consent and
+independent review related to traditional herbal medicine research.6,7 Here
+we apply a practical, comprehensive
+and widely accepted ethical framework
+to international traditional herbal
+medicine research.8
+ We examine in detail difficult questions related to social
+value, scientific validity and favourable
+risk–benefit ratio. We conclude with
+implications for future research in this
+area, focusing on the importance of
+collaborative partnership.
+Case
+A government agency from a developed country is conducting an HIVtreatment trial in Africa. A traditional
+herbal medicine, Africa Flower, has
+been used for decades to treat wasting
+symptoms associated with HIV. Local
+traditional medicine healers believe
+Africa Flower is an effective antiviral.
+It is already widely used for immune
+boosting in AIDS. In vitro pharmacokinetic studies suggest potential
+interference with vaccines, and animal
+models show liver toxicity at very high
+doses. There are no systemic side-effects
+reported for humans in the literature.
+A few case series have shown mixed
+results. Local leaders are requesting the
+government agency conduct a large,
+randomized controlled trial (RCT) of
+Africa Flower to test its efficacy as a
+novel adjunctive therapy to slow progression to AIDS.
+Ethical framework
+Cases like these present challenging
+questions related to the role of traditional
+herbal medicines in public health.
+In general, international research on
+traditional herbal medicines should be
+subject to the same ethical requirements
+as all research related to human subjects.9
+An ethical framework previously
+outlined by Emanuel et al. and revised
+for international research8
+ offers a useful
+starting point for thinking about the
+ethics of international traditional herbal
+medicine research. This framework
+includes eight ethical requirements
+for clinical research (Table 1). 8
+Special theme – Ethics public health
+Ethics and herbal medicine research
+595
+Jon C Tilburt & Ted J Kaptchuk
+Bulletin of the World Health Organization | August 2008, 86 (8)
+These ethical requirements are universal
+and comprehensive but must be adapted
+to the particular social context in which
+the research is implemented.8
+ Of these,
+fair subject selection, independent
+review, informed consent, and respect
+for enrolled subjects have been discussed
+previously in the literature on the
+ethics of global health research and
+raise few issues unique to international
+traditional herbal medicine research.8
+However, social value, scientific validity,
+and favourable risk–benefit ratio raise
+specific challenges in international herbal
+medicine research that have not been
+adequately discussed.
+Social value
+All research should hold the potential
+to achieve social value. Different entities
+may view the social value of traditional
+medicine research differently. Publichealth officials are often eager to define
+the safety and effectiveness of herbal
+medicines for conditions such as
+malaria.3
+ Conversely, harm can arise
+with the unscrupulous use of herbs
+such as Africa potato (various Hypoxis
+species).7
+ While some claim that such
+medicines have “stood the test of time”,
+they nonetheless pose serious challenges
+to investigators and regulators from
+developed countries, in which standards
+of proof are closely linked to proven
+efficacy in RCTs. Accordingly, there
+has been a serious investment in herbal
+medicine research by public-health
+bodies in many countries. China
+recently launched a safety research
+programme focusing on herbal medicine
+injections from traditional Chinese
+medicine.10 South Africa recently
+included the need for investigating
+traditional medicines within its national
+drug policy.11
+In the USA, the National Center
+for Complementary and Alternative
+Medicine at the National Institutes of
+Health spent approximately US$ 33
+million on herbal medicines in fiscal
+year 2005; in 2004 the National Cancer Institute committed nearly US$ 89
+million to studying a range of traditional therapies.12 While this scale of
+investment pales in comparison to the
+total research and development expenses of the pharmaceutical industry,
+it nevertheless reflects genuine public,
+industry and governmental interest in
+this area.
+Table 1. A comprehensive framework for research ethics
+Ethical requirement Definition
+Collaborative
+partnership
+Research leadership must include bilateral representation based
+on mutual respect between equal partners with community advice.
+It includes a responsibility to invest in the scientific training and
+capacity-building for ongoing research in a host country where such
+resources are not well developed.
+Social value Knowledge gained from the research should have the potential to
+lead to new generalizable knowledge or improvements in health.
+Partners should specify in advance to whom benefits will accrue and
+in what way.
+Scientific validity Research should be designed to produce beneficial and generalizable
+knowledge. This includes designing research so that it can be
+feasibly implemented in the settings where it will be conducted.
+Fair subject selection Subjects should be selected on the basis of scientific importance, not
+based on convenience, vulnerability or bias.
+Favourable risk–
+benefit ratio
+The potential benefits of individual participation should outweigh the
+risks of participation. Benefits to the community or population being
+studied should also be optimized. Compelling societal benefit can
+justify risks to individuals in certain circumstances.
+Independent review To maintain the integrity of the research, bodies not tied to the
+investigators must agree that the risks and potential benefits of the
+research are justified.
+Informed consent Investigators must obtain valid permission for study participation from
+subjects in a manner that is sensitive to the cultural context in which
+the study is conducted.
+Respect for subjects Researchers should have a plan for how the research results will be
+disseminated; ensuring participants know their right to withdraw, and
+monitoring the research for relevant adverse events.
+While public-health entities may
+be concerned with defining the risks
+and benefits of herbal medicines already in use, entrepreneurs and corporations hope herbal medicines may
+yield immediate returns from herbal
+medicine sales, or yield clues to promising chemical compounds for future
+pharmaceutical development. They
+test individual herbs, or their components, analysed in state-of-the-art highthroughput screening systems, hoping
+to isolate therapeutic phytochemicals
+or biologically active functional components. In 2006, Novartis reported
+that it would invest over US$ 100 million to investigate traditional medicine
+in Shanghai alone.4,5
+Nongovernmental organizations
+may be primarily interested in preserving indigenous medical knowledge.
+One such organization, the Association for the Promotion of Traditional
+Medicine (PROMETRA), based in
+Dakar, Senegal, is “dedicated to preserving and restoring African traditional
+medicine and indigenous science”.13
+Governments in developing countries
+may want to use traditional herbal
+medicine research to expand the influence of their culture’s indigenous
+herbal practices in the global healthcare market. For instance, Nigeria’s
+president recently established a national
+committee on traditional medicine
+with the expressed desire to boost
+Nigeria’s market share of traditional
+medicine.14 In developed countries,
+the “need” for this research may be to
+protect the public.
+The perceived need for the research
+may justifiably differ across countries,
+but without some basic agreement on
+the primary source of social value for
+the research it may be difficult to judge
+its ultimate impact. In the Africa Flower
+case above, before agreements to study
+a herbal medicine are decided, partners
+must fully discuss potential differences about the perceived “need” for
+the research through public forums or
+structured debates. Based on these frank
+discussions, partners can assess whether
+the social values of partner countries
+are sufficiently compatible to warrant a
+research partnership.
+Special theme – Ethics and public health
+Ethics and herbal medicine research
+596
+Jon C Tilburt & Ted J Kaptchuk
+Bulletin of the World Health Organization | August 2008, 86 (8)
+Scientific validity
+Part of ensuring the social value of
+research includes devising and
+implementing sound science. Although
+international collaborative research on
+herbal medicine is no exception,
+discussing scientific validity as an
+ethical requirement raises some specific
+challenges, including the meaning of
+scientific validity, establishing inclusion
+and exclusion criteria, using appropriate
+outcome measures, and determining
+appropriate study designs.
+Balancing internal and external
+validity
+Building a valid basis for knowledge in
+herbal medicine will require balancing
+two aspects of scientific validity: internal
+and external validity.15 Internal validity
+means the research must reliably test
+hypothesized relationships between an
+intervention and an outcome under
+controlled conditions. Internally valid
+research will typically try to answer a
+focused research question that is salient
+within the vocabulary and methods of
+the scientific community at the time
+the research is conducted. External
+validity refers to the applicability
+of the research results to a target
+population outside the experimental
+conditions of the research study. External
+validity must always be weighed against
+the need for rigorous internally valid
+research.
+This tension between internal and
+external validity can be illustrated by a
+recent herbal medicine trial of Echinacea angustifolia extract for prevention
+of parainfluenza virus infection.16 The
+study was conducted under rigorous
+experimental conditions, but many
+herbalists pointed out that study conditions did not sufficiently reflect how
+these medicines are actually used. Null
+treatment trial results like these prompt
+questions about the external validity
+(i.e. value and meaning) of the research.
+Was the herbal medicine truly ineffective, or did the experiment not reflect
+the herb’s use in “real-world” practice?
+In herbal medicine there are often
+huge variations in the way in which the
+medicines are used in herbalist practice,
+including herb source, preparation,
+dose and indication. Because traditional herbal medicine practitioners
+may be unregulated and their products
+lacking in standardization, it may be
+difficult to generalize the results from
+a formal, structured and highly monitored trial to what will happen in the
+widespread dissemination of the herbal
+medicine. Nevertheless, herbal medicine research must endeavour to achieve
+a balance between internal and external
+validity.
+Inclusion and exclusion criteria
+To ensure that research results are externally valid, the inclusion and exclusion criteria for research participation
+should fit with existing diagnostic categories in the target population specified by the research question. However,
+conceptualizations of health and illness
+can vary across medical systems and
+populations, making agreement on
+valid inclusion and exclusion criteria
+for international herbal medicine research collaborations more difficult to
+achieve.
+During the SARS epidemic, traditional Chinese medicine (TCM) practitioners involved in the care of SARS
+patients characterized patients based
+on nosological categories derived from
+TCM including “deficiency of chi and
+yin” as well as “stagnation of pathogenic
+phlegm”.17 Designing clinical trials using these kinds of TCM categories as
+inclusion criteria would require significant additional effort and biomedical
+flexibility to implement. If one wanted
+to test whether TCM works for populations in south-east Asia affected by a
+SARS-like illness, adapting the science
+to include traditional diagnostic categories may be critical for its ultimate
+external validity.
+If American researchers want to
+test a herb’s effects on heart failure, they
+might use the New York Heart Association classification as part of the inclusion/exclusion criteria. However, this
+classification makes little sense from a
+TCM perspective, in which heart failure may be viewed primarily as either
+a heart yang chi deficiency or a kidney
+yang deficiency.18 TCM practitioners
+may prefer to categorize patients based
+on pulses, tongue examination, and
+other elements of traditional diagnosis.
+Investigators have simultaneously used
+both biomedical entry criteria and
+stratified for TCM diagnosis.19 Such an
+approach is scientifically ideal because
+of its ability to maximize the external
+validity of results.
+Valid outcome measures
+International herbal medicine research
+must use outcome measures that accurately capture the effects conferred
+by herbal medicines. However, constructs such as “physical functioning”
+or “psychological well-being” measured
+by the SF-36 quality of life instrument
+make little sense within the terminology and ideas of TCM.20 Therefore to
+accurately measure a TCM herb’s effects
+on quality of life, some investigators
+have constructed and validated analoguous measures that more faithfully
+detect the effects of TCM interventions that make sense within that healing tradition.20,21 Ideally, when new
+measures are introduced, they should
+overlap with existing outcome measures, so that the research can adequately contribute to the existing body
+of knowledge.
+Determining research design
+While it is generally agreed that all
+human subjects research must maintain
+valid study designs, questions arise
+about the characteristics of a valid
+research design. Two extreme positions
+are often defended. At one extreme,
+some researchers trained in biomedical
+methods of clinical investigation argue
+that the only valid source of knowledge
+regarding clinical efficacy must come
+from one type of research design, the
+randomized double blind, placebocontrolled trial. They argue that any
+deviations from this gold standard of
+scientific validity amount to worthless
+science.
+At the other extreme, critics of
+biomedical research conducted on traditional medicines charge that attempts
+to evaluate traditional therapies with
+biomedical methodologies may fail to
+generate true knowledge, since that
+knowledge itself depends on a scientific
+vocabulary that only makes sense from
+within the concepts of biomedicine.22–24
+They worry that “standard notions of
+... experimental design criteria represent an imperialistic ‘western’ mode of
+thinking”.22,24
+Research on herbal medicines
+should typically employ experimental
+research designs such as the RCT. Even
+if research tools (including the RCT)
+are imperfect,25 they are thus far the
+best methods we have for furthering
+our knowledge.9,15 Consider how RCT
+designs could be implemented in TCM,
+Special theme – Ethics public health
+Ethics and herbal medicine research
+597
+Jon C Tilburt & Ted J Kaptchuk
+Bulletin of the World Health Organization | August 2008, 86 (8)
+in which treatments are individualized to patients, often incorporating
+several, or even dozens, of herbs in a
+customized preparation. Despite these
+complexities, investigators have successfully adapted double-blind RCT
+designs to complex individually tailored Chinese herbs. Bensoussan et al.
+conducted a three-arm trial in which
+they tested the comparative clinical efficacy of standard complex herbal medicines, customized therapy and placebo.26
+Standard and customized therapy were
+comparably beneficial as compared to
+placebo. In other instances, cluster
+RCTs can allow for practitioner variability, while still rigorously testing the
+efficacy of a therapeutic approach. In
+cross-cultural settings, researchers cannot merely adopt alternative designs
+in an ad hoc manner, but must reflect
+on and refine their research question,
+and find a design that best answers the
+research question within the given cultural context.
+In recent years, growing attention
+has been paid to a group of additional
+important ethical issues surrounding
+publication bias, financial conflicts of
+interest, and clinical trial registries. In
+the arena of traditional herbal medicine, these same issues apply, and when
+cross-cultural differences exist in the
+definitions of valid science, as is the case
+in traditional herbal medicine research,
+these questions compound. For instance,
+until recently, there was a tendency to
+see only positive studies published in
+China. It is, therefore, critically important to the long-term scientific credibility of international traditional herbal
+medicine research that, at the outset,
+partners agree about the standards
+of scientific conduct, the disclosure of
+financial relationships, registration of
+clinical trials, and adequate reporting
+of trial results.
+Favourable risk–benefit ratio
+In international herbal medicine research, several practical challenges arise
+in making accurate risk–benefit determinations. Typically, in American
+pharmaceutical development, a stepwise process of drug testing occurs – a
+compound is isolated, tested in tissue
+cultures and animals, and then investigated in phase 1, 2 and 3 clinical trials.
+However, herbal medicines are already
+in widespread use, are often used in
+combination, and are drawn from plant
+sources with their own variability in
+species, growing conditions and biologically active constituents. They often
+come into use by a process of trial and
+error, or over centuries. Accordingly, in
+clinical herbal medicine research there
+is rarely a strong preclinical basis for
+dosing, and there are significant looming questions about product purity,
+quality, chemical stability and active
+constituents at the time herbal medicine trials are proposed.27,28
+Initiating large-scale research trials
+in such circumstances raises questions
+about whether the risks and benefits of
+research participation can be accurately
+ascertained. Those reviewing protocols
+should factor in the uncertainty associated with product variability in
+determining whether a herbal medicine
+trial has a favourable risk–benefit ratio.
+However, protocol reviewers (i.e. institutional review boards) should not presume that because they are personally
+unfamiliar with a herbal preparation
+that there is no credible or valuable
+background evidence regarding safety
+and potential efficacy. While researchers should provide such information
+in protocol materials, reviewers must
+remain aware of the role their own lack
+of familiarity may play in their ultimate
+judgements of risks and benefits of the
+research.
+Researchers increasingly agree that
+it is important to establish a rational
+basis for dosing and standardization of
+biologically active compounds before
+conducting large-scale treatment trials.29,30 These efforts can improve investigators’ ability to assess the risks and
+benefits of participation in large-scale
+herbal medicine trials. Likewise, more
+rigorous monitoring of adverse events
+and standardized reporting of research
+results for both safety and efficacy data
+will improve long-term efforts to enhance risk–benefit ratio determination
+for trial participation.31
+Cultural factors also may influence
+judgements of the risks and benefits
+in herbal medicine research. For instance, a cultural familiarity with many
+traditional Chinese herbal medicines
+in China may promote a familiarity
+bias, accepting a widespread cultural
+assumption of safety, based on the historical use of herbal medicines.32 There
+may also be a cultural difference in
+emphasis placed on standardized adverse events reporting in China.33 These
+cultural differences make achieving
+agreed-upon standards of favourable
+risk–benefit ratio more difficult. In
+order for international collaborative
+herbal medicine research to achieve its
+objectives, it will be important to establish standards of evidence for demonstration of safety before conducting
+large-scale clinical trials evaluating the
+efficacy of herbal medicines.
+Improving science through
+collaborative partnership
+How can international collaborative
+herbal medicine trials achieve the
+ethical requirements outlined above?
+Collaborative partnership, the first
+requirement for international research
+ethics, provides both the rationale and
+the context for achieving appropriate
+application of the other ethical requirements. Partners in these collaborations
+must share vocabulary for all the requirements, especially for social value,
+scientific validity, and favourable risk–
+benefit ratio. How can agreed-upon
+language be achieved? As illustrated
+here, these challenges are significant. In
+the case presented earlier, investigators
+should have reservations about implementing a large-scale clinical trial for
+Africa Flower. Nevertheless, the local
+interest in this substance may be valid
+and deserve some additional preliminary investigation. Collaborative partnership displays a commitment by all
+parties in international research agreements to work together for common
+language and goals.
+To achieve collaborative partnership, parties can engage in structured
+methods of democratic deliberation to
+devise shared language and concepts for
+research. These methods have been used
+to bring different parties together in a
+safe and collegial process of decisionmaking.34 Over time, collaborations
+could “cross-train” basic and clinical
+investigators to more fully appreciate the
+concepts and practices of the traditional
+herbal medicine traditions, and developing host countries would need to develop the basic literacy, knowledge and
+skills among traditional medicine practitioners so that they see the value of
+rigorous clinical research.2
+ With a sustained investment like this, it will become increasingly possible to conduct
+sound international scientific investigation on traditional herbal medicine.
+Furthermore, sustainable collaborative
+research partnerships would benefit
+Special theme – Ethics and public health
+Ethics and herbal medicine research
+598
+Jon C Tilburt & Ted J Kaptchuk
+Bulletin of the World Health Organization | August 2008, 86 (8)
+from robust and independent adverseevent reporting systems for herbal
+medicines so that the risk–benefit ratio
+for herbal medicine research can be
+more clearly defined.
+Ethical challenges in international
+traditional herbal medicine call for a
+comprehensive framework. Addressing

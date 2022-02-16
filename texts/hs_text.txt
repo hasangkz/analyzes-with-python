@@ -1,0 +1,731 @@
+Digital humanities has been a much discussed topic in art
+faculties all over the world for the past five years. It was
+among other things ‘big news’ at the 2009 Modern Language
+Association (MLA) Annual Convention in Philadelphia
+(Liu, 2012, p. 8, 20), (Kirschenbaum, 2012, p.
+7). Digital humanities deals with a wide variety of topics
+touching the use of digital materials (big data) for research
+and the tools to analyze them (Zaagsma, 2013, p.
+15), (Kirschenbaum, 2012, p. 4).
+This relatively new direction of research often involves expertise
+from different fields which each come with their
+methodological baggage and requirements. In digital
+humanities projects intense communication between researchers
+of the different fields is imperative to reach satisfying
+results. (Svensson, 2012, section III) , (Siemens,
+2009), (Ter Braake, 2014). While working in an interdisciplinary
+field, it is important to be aware of the requirements
+and methodological approaches that are used by other disciplines
+involved. For instance, Rieder and R¨ohle (2012, p.
+70-76) and Lin (2012, p. 306) point out that digital tools
+rely on assumptions and should not be considered to be objective.
+Both developers of such tools as well as scholars
+using them need to be aware of the fact that such assumptions
+may introduce a bias while being used for research.
+In this paper, we discuss methodological issues that come
+into play when Natural Language Processing (NLP) is used
+to support historical research. The discussion is centered
+around BiographyNet,1 a multi-disciplinary project bringing
+together history, Linked Data and NLP. BiographyNet
+aims at enhancing the research potential of the Biography
+Portal of the Netherlands,2 a heterogenous collection of
+Dutch biographies. The portal contains short biographies
+and a limited set of metadata of more than 76,000 different
+people mentioned in various resources. Research in BiographyNet
+is meant to increase its potential for historical
+research by transforming the available data into a semantic
+knowledge base and through the creation of a demonstrator.
+1http://www.biographynet.nl/
+2http://www.biografischportaal.nl/en
+The goal of this paper is two-fold. First, we introduce
+the BiographyNet project to the NLP community. The paper
+thus particularly focuses on the role of NLP in the
+project. Second, we reflect on methodological issues that
+come into play when automatic text analysis is used to support
+academic research in another discipline. We argue that
+provenance modeling plays an essential role in historical
+research. There should not only be an indication of the
+used sources, but also insight into the process that led to
+a specific result. Awareness of provenance is both important
+for the historians using NLP output as well as for NLP
+researchers developing a system for historians. We will address
+provenance from both of these angles in this paper.
+The rest of this paper is structured as follows. Section 2.
+provides background information on the data from the Biographical
+portal. In Section 3., we describe the project
+from the perspective of historians. The role of Linked Data
+in this project is outlined in Section 4.. We present examples
+of how NLP methods may introduce a bias and explain
+what information on provenance should be provided in Section
+5. In Section 6., we describe a first basic system for
+information retrieval. This section also provides an example
+of how provenance of a simple NLP pipeline may be
+modeled. We present our conclusions in Section 7.
+2. The Biography Portal
+The Biography Portal of the Netherlands provides access to
+over 125,000 entries describing 76,000 people considered
+(more or less) prominent figures of Dutch history. Each entry
+contains metadata and around 80% includes biographical
+text. It is a heterogenous collection made up out of
+23 sources. The oldest sources date from the eighteenth
+century, while other sources are still being updated today.
+The largest sources are the nineteenth century Biographisch
+Woordenboek der Nederlanden (van der Aa, 1878) and the
+Nieuw Nederlandsch Biografisch Woordenboek (Blok and
+Molhuysen, 1937, NNBW) from the first half of the twentieth
+century, together good for over 45,000 biographies.
+This variety in sources from different time periods and with
+different themes (e.g. socialists, women, artists) is unique
+in comparison to other online national biographical dictio-
+3728
+nary projects, which usually limit themselves to one or two
+sources.3
+The portal can be searched with a full text search and for
+basic information such as name, religion, date and place of
+birth and category. The basic information is provided in
+an additional layer of metadata created for each individual
+(Hoekstra, 2013). The searchable metadata are based on
+metadata from different sources. In case of conflict, information
+from sources considered more reliable was selected.
+The completeness of the metadata varies significantly:
+some sources come with rich metadata, others with very
+limited metadata. The completeness of metadata for an individual
+thus depends on the biographical sources he or she
+is described in. The metadata of some sources provides a
+relatively complete picture of the individuals that are described.
+For instance, the metadata from the Parlementary
+Documentation Center includes all information known
+about someone’s education and carreer path. Other resources
+provide elaborate information in the text, but minimize
+metadata to the name and place and date of birth and
+death. Furthermore, the structure of texts, language use and
+length of texts varies from one biographical source to another.
+The possibilities provided by information extraction
+as well as the challenges involved in this task thus highly
+differ depending on the source. We will elaborate on these
+properties in Section 5. First, we will elaborate on digital
+history in the context of BiographyNet.
+3. Digital History and BiographyNet
+The Biography portal of the Netherlands can already be
+seen as a digital history project in itself, since it brings together
+a wide variety of sources and offers opportunities for
+digital research. BiographyNet tries to fully tap into the research
+potential of the portal by transforming the available
+biographical data into a semantic knowledge base, facilitating
+more complex queries and creating a user friendly interface,
+which meets the provenance requirements of both
+the historian and the computer scientist. The development
+of the BiographyNet demonstrator requires a careful consideration
+of historical research methods.
+3.1. Historic Methods
+Historic research has some challenges that are generally
+agreed to be specific for the discipline (Ankersmit, 1983,
+p. 280), (Mink, 1966, p. 39-40), (Van den Akker, 2012,
+p. 245-247). First, a conclusion cannot be confirmed or
+falsified by running a test, but has to become evident from
+the provided source material and its analysis. Furthermore,
+historians present visions and syntheses that are based on
+facts, but do not derive from them directly, i.e. they must explain
+what happened and not only present what happened.
+Analysis, logic, interpretations, models, theory and quantification
+lead historians to their view of the past. Because
+3See for example Germany, the Neue Deutsche Biographie:
+http://www.ndb.badw-muenchen.de/ndb_
+aufgaben.htm (accessed 10 April 2013); United Kingdom,
+the Oxford Dictionary of National Biography: http://www.
+oxforddnb.com/ (accessed 10 April 2013); Sweden, Svenskt
+Biografikst Lexicon: http://www.nad.riksarkivet.
+se/sbl/Start.aspx?lang=se (accessed 10 April 2013).
+of this creative element in historic research, two historians
+using the same material can come to different visions
+(Ricoeur, 2004, p. 242). In theory, the more visions on
+a certain subject exist, the better for historical scholarship
+(Ankersmit, 1996, p. 21), because opposing visions may
+help to get closer to the truth.
+One of the main objectives of text mining for historical research
+is the extrapolation of facts or events. Every historical
+narrative is built on these basic building blocks. There
+are however, many degrees of how reliable the evidence for
+a historical event can be. It is for example quite possible to
+proof a famous historical event like the defeat of Napoleon
+in 1813 at the battle of Leipzig by referring to a wide variety
+of sources like pamphlets, chronicles, diaries, newspapers,
+accounts et cetera. It is more difficult to proof the presence
+of a lower army officer at the battle of Leipzig, because
+fewer sources will be available to show that he was there,
+or maybe the historian has to rely on circumstantial evidence.
+Events for historical research therefore have a wide
+variety of “provability”. Most academic historical books
+are based on events that are easy and difficult to prove as
+well as reconstructions of events.
+If we want to visualize what happens when a historian
+writes a book or article, we can use the metaphor of a house
+(see Figure 1).4 All the data or facts at disposal can be considered
+the building blocks of the house. The methods used
+to put those building blocks together, e.g. the logic, analysis,
+quantification, theory and models, can be seen as the
+concrete. The house is the synthesis, e.g. the history of the
+fall of Napoleon at Leipzig. Multiple independent building
+blocks can be put together by the concrete to form a dependent
+building block. This dependent building block is by
+nature less stable than the building blocks it was built from
+since more blocks run the risk of being falsified. This new
+building block can be used again to form yet another, even
+more dependent, building block. If either building blocks
+or concrete are of deficit quality, then the house will fall, or
+become drafty. If a construction is made well however, a
+house will not fall if only one block crumbles.
+These narrative constructions will endure over time if they
+are built well. They have their place within a setting of
+intertextuality (of other works with a similar topic) like a
+house does in urban space. If the narrative crumbles, it will
+eventually be demolished and not be used any more by future
+historians as a reliable source.
+3.2. A Narrative from Biographies
+In BiographyNet, NLP tools are used to extract facts from
+biographies, i.e. they should identify building blocks in the
+text. These building blocks are stored as Linked Data (see
+Section 4.) to facilitate tools that allow the historian to identify
+connections between people and events. By doing so,
+the historian creates new narratives that go beyond the stories
+of individuals. Metaphorically speaking, the historian
+uses the building blocks extracted from biographies to create
+new houses of different dimensions and shape.
+The quality of narratives depends on the reliability of the
+facts it is built on. It is essential that the historian can
+4This metaphor expands on a similar metaphor used by Ricoeur
+(2004, p. 150-151).
+3729
+Figure 1: The Historical Narrative
+trace the provenance of individual facts. In addition to a
+pointer to the original document, the historian should know
+whether information was retrieved from text by NLP tools
+or whether it was extracted directly from the database. The
+method that was used and the reliability of the output needs
+to be presented as well. This information allows historians
+to choose between alternative methods depending on
+whether they need high precision or high recall. Ideally, the
+historian should also be able to gain insight into whether
+the NLP method is likely to introduce a bias in the interpretation.
+Providing such information where needed in an
+understandable method is, however, less trivial. We will
+address the challenges involved in Section 5. In the next
+section, we present a brief description of the role of Linked
+Data in our project.
+4. Linked Data in BiographyNet
+For BiographyNet the information from metadata and extracted
+from text are converted to Linked Data. Representing
+data in the Resource Description Framework (RDF) has
+the advantage that we can use Semantic Web technology.
+Moreover, we can easily link information from the Biography
+Portal to information from other related projects, such
+as Agora (Van den Akker et al., 2011) which attempts to
+place objects from various museums in a historic context
+and Verrijkt Koninkrijk (“Enriched Kingdom”),5 improving
+the searchability of De Jong (1969 1991)’s 14 volume description
+of the Netherlands during the Second World War.
+A detailed description of the conversion process can be
+found in Ockeloen et al. (2013). We will briefly highlight
+the main properties here.
+One of the main goals was to stay close to the original data
+structure to prevent information loss due to interpretation
+and modeling decisions. The following steps were followed
+in the conversion process.
+First, the biographies in the portal are converted from XML
+(the format we received them in) to RDF using the “XMLRDF”
+tool6 for ClioPatria (Wielemaker et al., 2008; Sheth
+5http://www.niod.nl/en/projects/
+enriched-kingdom
+6http://cliopatria.swi-prolog.org/packs/
+xmlrdf
+et al., 2008). We then carry out a conversion following De
+Boer et al. (2012) that allows us to link multiple biographies
+for the same person to a single resource representing
+that person. These biographies can contain possibly conflicting
+views and are therefore treated as seperate sources.
+We use the PROV-Ontology (Moreau et al., 2012) to model
+provenance. Because data that resulted from text analysis
+needs additional provenance information on the process of
+extracting information in text, we treat the output of text
+analysis as a new source of information on the individual.
+This allows us to record the performed NLP processes using
+PROV-O and relate this provenance information to the
+resulting “new source” and the original sources on which
+the processes where performed. Furthermore, we use the
+P-PLAN ontology (Garijo and Gil, 2013) to model what
+is supposed to happen at each stage in the NLP pipeline.
+This information can be helpful for error analysis and debugging.
+A description of the overall schema that is used
+to include provenance of what happened and information
+on the planned processes can be found in Ockeloen et al.
+(2013). The next section will address provenance modeling
+in NLP in more detail.
+5. Provenance modeling of NLP research
+NLP research within BiographyNet can be divided in two
+categories. For now, focus lies on extracting information
+from text. In future work, NLP will also play a role in comparing
+style and topics of the different sources in the portal
+to find out how historic research and interest changes over
+time (e.g. Herbelot et al. (2012) for philosophical texts).
+Both directions of research require understandable information
+on the methods that were used to create the results.
+We will illustrate this focusing on extracting information
+from text.
+5.1. Motivation for Provenance modeling
+Historians must be able to verify the validity of the facts
+they base their conclusions on. Automatic text analysis
+adds a new dimension to this verification process. We will
+illustrate how NLP methods may influence the outcome of
+a historical question through two examples. The first example,
+an extended description of an example we previously
+3730
+presented in Ockeloen et al. (2013), shows how heuristics
+may temper the validity of research. The second example
+addresses potential problems when machine learning
+approaches are involved.
+Geographical locations are often ambiguous. Many cities
+existing in Europe are also used to indicate locations in the
+United States. The biographical portal only describes individuals
+related to the Netherlands (either because they are
+Dutch, lived in the Netherlands or played an important role
+in Dutch history). A simple approach that always assigns
+the location in or closest to the Netherlands in GeoNames7
+will achieve high accuracy on this corpus. If the historian
+investigates the origin of civil servants in The Hague, errors
+introduced by this approach will hardly have an impact
+on the results. If the investigation addresses the interaction
+of Dutch officials overseas with their home country on
+the other hand, this bias would be highly problematic since
+many place names in former Dutch colonies also existed in
+the Netherlands. This question thus requires an approach
+using a more sophisticated approach for disambiguiting locations.
+The bias introduced by a heuristic as the one explained
+above is easy to spot. For other approaches, biases may
+be less transparent. A machine learning approach to classify
+biographies according to the topics of the biography
+(e.g. politics, science, feminism, etc.) could lead to possible
+biases as well. This could for instance occur when investigating
+a family that has produced several members active
+in politics. A potential question the historian might ask
+would be how many of these family members mentioned
+in the portal are known for their political involvement. Because
+the family has a relatively high correlation of people
+involved with politics, a machine learning approach using
+simple bag of words as features may have learned to associate
+the family name with politics. The approach thus
+increases the likelihood of biographies of this family as being
+classified as political directly influecing the outcome of
+this question.
+5.2. Raising awareness
+Historians that use BiographyNet tools must be aware of
+these potential biases. For each NLP approach, an overview
+of technologies involved should be given together with an
+explanation of how they work. The rules and heuristics of
+rule-based approaches should be made explicit. For machine
+learning approaches, the training data and features
+that are used should be indicated.
+One of the main challenges lies in explaining how heuristics,
+rules or features in machine learning may introduce
+a bias. Historians may expect a bias from heuristics, but
+the second example of a potential bias is not that easy to
+spot for a historian. A simple overview of the technology
+is therefore not sufficient. Accessible explanations of how
+technologies use features and heuristic and how information
+may influence an experiment’s outcome should also be
+provided. A complicating matter is that usually the better a
+tool works the more difficult it is for a lay person to comprehend
+more than the basics (Lin, 2012, p. 306). Providing
+7http://www.geonames.org/
+Figure 2: The PROV-DM
+such explanations therefore is not a trivial task and will be
+ongoing work throughout the project.
+Our provenance model should include an overview of
+known biases as well as observed biases in error analyses.
+It should furthermore provide a clear indication of all methods,
+resources and data that was used. Modeling such information
+also supports NLP research. If we model each tool
+and resource used, including their version, performance on
+a particular evaluation task and who carried out the process,
+we may help to avoid problems reproducing results in the
+future.
+5.3. Modeling provenance with PROV-O
+As mentioned in Section 4., we use the PROV-DM (Moreau
+et al., 2012) for provenance modeling in BiographyNet. In
+Ockeloen et al. (2013), we provide a detailed motivation
+for this choice. We will provide a brief overview of the
+most important reasons here as well as a basic description
+of the structure of the PROV-DM. An example of modeling
+provenance of a pipeline used in BiographyNet will be
+given in Section 6.
+The PROV-DM is a W3C recommendation for modeling
+provenance making it widely used for this purpose. Provenance
+concepts and relations defined in the PROV-DM can
+be represented in RDF. This makes it straightforward to integrate
+them in our schema.
+The PROV-DM distinguishes three provenance views: the
+data flow view, the process flow view and the responsibility
+view. The data flow view represents what happens
+with Entities, the process flow view allows us to
+model Activities and the reponsibility view associates Entities
+and Activities with the Agents responsible for them.
+Figure 2 illustrates the relations between the main classes
+of PROV-O as provided at http://www.w3.org/TR/
+2013/REC-prov-o-20130430/.8
+In the PROV-DM, Provenance can be represented on an
+overall level or more fine-grained level. We can provide
+a direct pointer to the source text (a provenance Entity) and
+author of the text (a provenance Agent) of a specific statement.
+The historian can use this information to go back
+to the source for verification. It can also provide a more
+fine grained overview of all the steps that were involved in
+8Accessed February 17 2014.
+3731
+extracting this statement from the text. This includes information
+on the methods that were used, the resources and
+data that were involved as well as the people responsible
+for designing and running the methods.
+Accessible explanations of methods cannot be modeled
+using the PROV-DM. We can however link methods, resources
+and data present in our provenance model to such
+explanations.
+6. A basic system for information extraction
+In this section, we describe a basic system that can identify
+information that falls into metadata categories in the
+text. We provide a simplified illustration of how we model
+provenance for this system. The current system uses purely
+token-based machine learning and yields poor results. We
+therefore briefly reflect on how the system with its current
+performance can be useful for historians and present the
+next steps that will be taken to improve the system.
+6.1. System description
+As explained in 2., the sources in the Biographical Portal
+are quite diverse as far as their structure, average content
+and completeness of metadata are concerned. Where some
+sources provide rich metadata and relatively little text, others
+almost exclusively provide information expressed in
+natural language. Several individuals have biographies in
+more than one resource. Because of this, we can match rich
+metadata from one source to the text of resources that do
+not provide much metadata. Text with rich metadata can
+thus be used to train a supervised machine learning system
+for identifying metadata in text.
+The task of filling out gaps in the metadata of biographies
+by identifying this information in text is similar to filling
+infoboxes in Wikipedia. In both cases, we have texts and a
+manually created set of facts that are likely to be mentioned
+in these texts which can be used for supervised machine
+learning. Our approach is therefore inspired by information
+extraction methods aiming at filling Wikipedia infoboxes,
+such as Kylin (Wu and Weld, 2007), TextRunner (Yates et
+al., 2007) and Open IE (the second generation) (Etzioni et
+al., 2011). Like these approaches, we first identify relevant
+sentences and then attempt to extract relevant information
+from these sentences.
+We use the following procedure in our baseline system.
+First, we identify where information from the metadata is
+mentioned in biographical text. In the next step, we create a
+corpus for each category of information found in the metadata.
+The relevant categories are date and place of birth and
+death, education, occupation, religion and parents. In this
+corpus, sentences are labeled indicating whether they contain
+relevant information or not. We use the Mallet (Mc-
+Callum, 2002) document classifier to identify relevant sentences
+treating every sentence as an individual document.
+In the second stage, we create a corpus of sentences in
+which tokens containing relevant information are labeled.
+We train Mallet’s conditional random field sequence labeller
+on this corpus. The sentences marked relevant by our
+classifier are passed through the sequence labeller to identify
+the information we are looking for. This first version
+of our system only uses sentence number, the name of the
+Figure 3: Example: Provenance of extracted birthdate
+source and words in the sentence as features. The scripts
+used for creating the corpora as well as the development
+data are available at https://github.com/antske/
+BiographyNet.
+6.2. An example of provenance modeling
+Figure 3 provides a simplified illustration of basic provenance
+information for the date of birth of Thorbecke (an influential
+Dutch politician from the 19th century) extracted
+from text. Note that all elements in the representation have
+their own unique identifier which allows us to define relations
+between them in RDF.
+The extracted information is represented in the white box.
+Thorbecke is identified by a his BiographyNet identification
+number, which is unique.9 The information is extracted
+from a specific XML file from the Biography portal indicated
+by the Information Extraction activity. There is a direct
+link between the extracted statement and the original
+source (Biographical text 00376149 14.xml).10 The biography
+in question is included in van der Aa (1878). It is
+therefore attributed to Van der Aa who initiated the biographical
+dictionary in question in the provenance model.
+The information presented in Figure 3 fulfills a number of
+requirements we defined in Section 3.2. The historian can
+find the original source, information on who is responsible
+for the source and that the information was automatically
+extracted from the text. The provenance information
+allows the historian to estimate the reliability of the outcome
+(e.g. Van der Aa is an old source and therefore not
+the most reliable), to change the query (e.g. to exclude any
+references to Van der Aa to improve results) and to cite the
+result obtained by giving a URL in a footnote which can be
+reproduced and checked for reliability by other colleagues.
+Extracting the date of birth from a structured biography is
+a relatively easy taks and it is unlikely there will be a bias
+in the way this information was extracted. However, even
+here correctness of the algorithm cannot be guaranteed and
+9Note that this unique identifier can be linked to other identifiers
+for Thorbecke such as his DBpedia entry.
+10We also have a model for linking the elements of the statement
+to the specific tokens that refer to them. We use the
+Grounded Annotation Framework (Fokkens et al., 2013, GAF) to
+establish this link.
+3732
+Figure 4: Partial overview of provenance for our basic system
+it may be worthwhile to examine the approach in more detail.
+We can represent the necessary additional information
+for this examination about the information extraction activity
+in our model. This includes information on the process
+as a whole, such as the precision and recall found in our
+evaluation, and a description of insights gained from error
+analysis. We can also provide information about individual
+steps taken in our approach for information extraction.
+Figure 4 provides a partial representation of the provenance
+of the information extraction activity. The information extraction
+activity consists of the sentence identification activity
+and token identification activity. These activities are
+linked to the software that was used to carry them out. We
+can link the software to descriptions on how they work for
+historians, but also provide valuable information to computational
+linguists who may want to experiment with the
+software or who want to reproduce results. We include information
+about the version of the software and the data that
+the classifier and token labeller were trained on. There is,
+however, always a chance that some information is missing.
+We therefore also indicate who was responsible for setting
+up the system and, where possible, who was responsiple
+for implementing parts of the software. This way, fellow
+researchers know who to contact in case of questions (this
+information in not present in the simplified representation
+in Figure 4).
+To come back to our metaphor in Section 3. of a historical
+narrative as a house built with building blocks with a
+varying level of reliability: the extracted fact functions as a
+building block, while all the provenance information shows
+how strong the building block is and what influence this has
+on the strength of the house as a whole.
+6.3. Evaluation and outlook
+The first evaluation of the system aims at creating a portrait
+of the 71 governors of the Dutch Indies. We looked both at
+the identification of correct sentences and identification of
+the correct information within the sentence.
+We achieve decent results for sentence identification, but
+recall for identifying the correct information in the sentence
+is extremely low (from nothing for education to around
+30% for the easiest category of date of birth). Precision,
+on the other hand, is high (between approximately 60%-
+100%).
+The current results are not of high enough quality yet to
+truly support the ultimate goal of this project. We do not
+extract enough information from the text to form a database
+in RDF that is truly richer than that what can be derived
+from the metadata.
+The first step in our approach can be of use to historians,
+because it gets decent results in identifying relevant sentences.
+This can help historians to quickly spot specific
+information they are looking for in text. However, it can
+only be used reliably when the historian either knows when
+all relevant information is found (e.g. unique events such
+as the birth of an individual) or where recall is not relevant
+(e.g. looking for examples of an occupation).
+Yates et al. (2007) and Etzioni et al. (2011) show that results
+for information extraction can be improved drastically
+when linguistic information is used in a clever way. Examination
+of a comparable development corpus indicates that
+this probably also applies to the task of extracting information
+from biographies. Furthermore, basic information
+about an individual tends to be presented in a consistent
+manner, at least within a biographical dictionary. Integrating
+linguistic information in our system and making use
+of the stable parts of structures in biographies are the next
+steps to improve our results.
+7. Conclusion
+This paper introduced BiographyNet, a project where NLP
+and SemanticWeb technology are used to support historical
+research. In this paper, we particularly focused on the role
+of NLP in the project and addressed methodological issues
+that come into play when NLP is used to support historical
+research.
+We argued that provenance modeling plays an essential
+role in historical research and that interdisciplinary research
+3733
+adds an additional dimension to provenance modeling both
+historians and computational linguists need to bea aware of.
+Historians need to be aware that, in addition to verifying
+reliability of sources as is common in their field, they also
+need to take the reliability of NLP methods into account
+when working with automatically extracted information.
+Looking at the overall performance of the method (e.g. precision
+and recall of retrieved information) is not always
+enough, because methods can introduce a bias that directly
+influences the results.
+Computational linguists must be aware of this potential
+bias, so that they can provide historians with the information
+they need to be able to interpret their results. Furthermore,
+methods that introduce a strong bias may require the
+implementation of alternative approaches. Even if the accuracy
+of an alternative approach is less high, it may still
+lead to more reliable results for the historian if it avoids a
+bias that is highly relevant for the historian’s hypothesis.
+We provided a basic illustration of what provenance modeling
+should look like for the basic system we use for information
+extraction. We introduced the data provided by
+the Biographical Portal and explained the diversity of data
+and metadata in the corpus. We furthermore explained why
+our linguistically naive system performs poorly, addressed
+the question of how such results may be useful for historians
+and indicated how we attempt to improve our results in
+future work.
+JESSE SHERA’S DEMAND FOR “the cooperation of scholars and scientists from a variety of disciplines in a team attack upon problems of great complexity,”’ voiced in the last issue of Library Trends devoted to research, holds more than passing import for the historian concerned with libraries. Examples of highly productive cooperative efforts do exist in many disciplines, but history is traditionally a solitary pursuit and historians have infrequently collaborated successfully on anything of value or worth. As often as not, historians disagree about the signifi- cance of their findings and, sometimes they disagree that the findings have significance at all. However, historical study as an approach to library and information science research cannot exist independently of other research approaches. And, when combined with them, it has the potential to share in the cooperative effort at ultimate understanding addressed by Shera. Historical research is much more synthetic and eclectic in its approach than other research methods, using concepts and conclusions from many other disciplines toexplore the historical record and to test the conclusions arrived at by other methodologies.
+Many methods used alone or in conjunction with other supporting techniques of data collection and analysis can adequately demonstrate that some particular situation or relationship between variables exist in
+Orvin Lee Shiflett is Associate Professor, School of Library and Information Science, Louisiana State University, Baton Rouge, Louisiana.
+SPRING 1984 385
+ORVIN LEE SHIFLE’M
+the present. But the persistence and permanence of these conclusions will always be questionable without historical verification. The results of other research can and should act as a guide to the historian, pointing to potentially fruitful areas of research that can further test the conclu- sions of other social science approaches. While the use of “analogies and comparisons evoked by some other discipline” in historical scholarship is always questionable unless the analysis stands the test of rigorous historird standards,’ these borrowings do offer a point where history can participate and perhaps even lead in the search for a cooperative solution to the research needs of library and information science.
+History can never aspire to be a primary methodology in library and information science research. The mere existence of a separate Library History Round Table (LHRT) and a Library Research Round Table (LRRT) with essentially distinct memberships within the struc- ture of the American Library Association (ALA) indicates the degree of estrangement between those who concern themselves with research using the techniques of the more rigorous social sciences and those interested in the history of libraries and librarianship. The community of library historians looks at much library and information science research as if “some rough beast, its hour come around at last, slouches towards Bethlehem to be born,” while other researchers have tended to discount the value of historical study as mere antiquarianism. Both groups have ignored the fact that the value of research is not determined by the approach, but by results and conclusions.
+It has been often asserted that libraries do not exist in a vacuum. They are not isolated from other institutions of information and culture in which they have their organizational existence. A school library without a school to serve is never found. An academic library without a college or university cannot exist. Even the New York Public Library does not represent an institution totally independent of the fortunes of New York City. The very existence of libraries and information centers depends not so much on their relation to their users and information sources as to the parent organization-scholastic, municipal, or private-that they serve. The problems of research into the nature of library and information science are therefore much more complex than it has often been viewed: it is not the simple relationship of information to user, but that relation as filtered through an organizational structure that has an historical relation to the library that serves it.
+Library history has been criticized-often correctly-for its lack of rigor. This charge is no different from that leveled against history written by the professional historian. Compared with the forms and
+LIBRARY TRENDS 386
+The Role of Historical Research
+language adapted from the natural sciences to the social sciences and from there to library and information science, history is at best an impressionistic form of research more closely akin to literary research than physics. But empirical research has come to be widely recognized as useful to the historian. As a “somewhat uncritical and even complacent discipline,” history should benefit from the results of other disciplines applied to library and information science to at least force library “historians to criticize their assumptions, to expose their premises, to tighten their logic, to pursue and respect their facts, [and] to restrain their rhetoric.’’3
+It is in this way that historical research may respond to Shera’s challenge and contribute to the evolving paradigm of library research. Each of the hypotheses advanced by other forms of research is testable as an historical phenomenon. Historical phenomena are also testable by any number of survey and other methodologies commonly used in library and information science research. The role of historical study must be interactive with other forms of research. The very looseness of historical methods allows the historian to explore a vast number of problems that are approachable only in one or two aspects by other methodologies. It is in this capacity that is found both the strength and weakness of historical study in library and information science.
+Current Status of Library History
+History is a major research methodology in library and informa- tion science as measured by the amount written, but its popularity has dramatically decreased in recent years. This is evident in the types of research projects that are being accepted by doctoral committees. His- torical research constituted 33.2 percent of the methodological approaches to doctoral research from 1925 until 1972. From 1973 to 1981, historical methods accounted for only 15.6 percent of the effort^.^ There are undoubtedly many possible reasons for this, but the major one seems to be the pervasive belief of some doctoral committees and dissertation advisors that historical research represents wasted effort. Research using methods adopted from the more rigorous social sciences has become the modality of research in library and information science.
+The new emphasis reflects a growing demand for utility in library research and a feeling that to be of value, research must sustain external indicators of validity. That is, it must fit into the paradigm of what is known about the question under investigation. In these two elements- utility and validity-many feel that history has failed and they demand
+SPRING 1984 387
+ORVIN LEE SHIFLETT
+more productive, in the sense of “more practical,” forms of investiga-tion. The call is for research that will increase librarians’ ability to effectively and efficiently approach the decision-making process in order to enhance their ability to provide information services. But, the demand neglects the necessity for research that can enable librarians to understand why libraries and information services are important to society. The demand for applicability of research results to library problems, accompanied by the perceived ineffectuality of history to produce these kinds of results, has led to a devaluation of history’s potential and real role in the research effort.
+Library history has too often been viewed in the narrowest sense- as simply the history of libraries. It is usually associated with only the administration and organization of libraries, reference services, techno- logical innovations, and professional questions among other aspects of professional activity. But it is more than that. Libraries contain books, periodicals and whatever else a librarian determines might be a correct and proper information source and service to a reader. Research in library and information science includes both the media collected and organized and those who use these media. Thus, the history of books and printing and that of other media, the history of the library as an institution, and the history of the use made of materials and libraries are all topics within the legitimate domain of library hi~tory.~
+If the label, “library research,” is applied to research into the operation of politics on library development, the publishing patterns in subject literatures, the reading and information gathering habits of selected populations, or any other topic that impinges however tangentially on the profes- sion, then historical aspects of these phenomena must be allowed as “library history.”
+The condemnation of library history as “mere antiquariansism” is only valid if the short view of history is held. History is essentially a research method-not a subject. It is only limited in what it can investi- gate to that which any form of library and information science research would consider as legitimate problems. Each of the subjects under investigation by survey research, case study, experimental design, or any other method have historical aspects that need to be thoroughly under- stood in order for the problem to be completely researched.
+The Nature of Library History
+The study of libraries differs in several fundamental ways from other institutional studies in the nature and substance of the decision-
+LIBRARY TRENDS 388
+The Role of Historical Research
+making process. The real measure of the success or failure of a library derives from its ability to deliver to the user a specific bit of information or a specific item. The typical demand on the services of an information source is either a specific request for a single fact or book, or for “something about,” or for “information on.” These are diffuse demands placed on a diversity of resources. Other institutions provide a far more limited array of services in response to far more restricted sets of demands. As a consequence, their individual decisions are more crucial to the enterprise than those of libraries. The decision of Ford to build another Edsel could end the enterprise entirely. The decision of a library to add a second copy of a $20 book or to drop a subscription to Timewill not make that sort of impact. It may, twenty years from the decision, make one reader somewhat dissappointed that the library’s subscription did not extend back that far, but interlibrary loan can supply the item if it is crucial enough.
+While business histories, governmental histories and other institu- tional histories must focus on the major turning points of the organiza- tion’s life, library history consists of a series of relatively inconsequential individual decisions that cumulate to form the reputa- tion of the contemporary institution. “We are what we can deliver” is a truism in the library world. What a library and information center can deliver, though, is only what is actually in the collection or what it has access to through a variety of cooperative forms of networking and interlibrary loan mechanisms, all of which have evolved over time. The measure of success, then, is a measure of user satisfaction with a decision that may have been made years earlier by a long forgotten reference, acquisition, collection development, or any other librarian in whatever capacity.
+One may object that there are major decisions in libraries and, of course, there are. The decisions made are major in that they sometimes involve large amounts of money and frequently commit the library to a specific course for a long period of time. But the effect of the Dewey or LC classifications on user satisfaction or the relative merits of various automated systems used in circulation control have never been effec- tively evaluated in terms of user satisfaction. The informed guess that adequate access to materials would be more important to users than the relative merits of exit control systems is strong enough to indicate that what many librarians consider “major” decisions are relatively insignif- icant housekeeping functions to most library users. People who enter libraries can use any or all of these systems. System failure occurs when users are not allowed access to what they want or at least to what they
+SPRING 1984 389
+ORVIN LEE SHIFLETT
+think they need. This failure of libraries to respond to user demands is most often determined not by any major management decision, but by the simple decision to acquire a title or to give it a specific subject heading. Because of the cumulative nature of decision-making and the effect of these decisions over time, the nature of the library and other information systems is primarily understandable as an historical phenomenon.
+As such, history at least as much and perhaps more than other research methods, provides librarians with a context. It is only through understanding history that we can begin to make sense of the environ- ment in which we work. The questions of why, for example, a particular library has a strong collection in a particularly unlikely area, such as the Confederate imprints of the Boston Athenaeum, or why a library pursues a particularly aberrant classification scheme, such as the New York Public Library, are historical questions that are unanswerable by any other method. Too frequently, library collections and services are incomprehensible in terms of present users and only make sense when we find that the servicr or collection lvas begun by an early librarian in response to some real or imagined need-or simply as a “hobby horse” the librarian happened to ridc.
+Rhetoric and History
+A central difficulty with determining the usefulness of historical research is one of understanding the way in which it convinces the reader of its essential truth. In history, little beyond the purely factual can be proven or disproven absolutely-and that only as far as the records are complete and accessible. Historians can only describe and arrive at general conclusions about their data. History rarely offers the opportunity to apply elaborate or even the simplest statistical tests to data to convince readers of the validity of the findings. Historians convince-or fail to convince-their audience not by elaborate nume- rology, but by the facts at their command and their ability to argue pursuasivcly, ever conscious that they may have missed something and that the nature of historical records only allow, at best, a partial picture of the reality of past events.
+The formal discipline of history has made fruitful use of statistical techniques. Even so, there is much controversy surrounding the reinter- pretation of data collected for other purposes and a genuine concern over the possibility that some statistical data may well be a distortion of the actual historic Much of what are significant features of our
+390 LIBRARY TRENDS
+The Role of Historical Research
+daily existence will leave little or no record for the future historian. Examples of this abound in research into the past. The familiar exam- ple of unpaved country roads of the nineteenth century having three rather than the two tracks of those of the twentieth century is only one manifestation of this. Future historians of library and information science may well have to deal with the decay of printed material, of recorded sound, and other forms, so that by 2050, it may be legitimate to assume that those publishers who are conscious of the permanence their products may represent the total record available to the historian. The tremendous numbers of currently popular materials that are prone to self destruction because of their physical composition-such as regency romances, parapsychology, science fiction, and self-help books-will be unrecorded as part of our library collections. The practice used in many public libraries of circulating mass-market paperbacks on a “trust system” rather than integrating them into the general collection will leave no records, and thus the future historian will have little with which to determine the actual pattern of circulation.
+Other records that do exist will indicate use. The circulation of popular romances cannot be documented in the records of libraries, but other popularity measures can be determined by the published statistics of the industry trade journals, the records of publishers and perhaps in the accounting records of distributors that supply the reading racks of bus stations and convenience stores.
+The careful and judicious use of these sorts of records can enable historians to explore and frequently explode “some long-cherished generalizations about the past [that] had suddenly achieved the poetic statusof a free-floating fanta~y.”~
+Though library history would seem a study receptive to statistical analysis, there have been few attempts to use “cliometrics” to investigate library problems.
+Individual historical works are frequently dogmatic in their assert- ing of a final word. But this is, in good history, merely a rhetorical device used to convince the reader, and perhaps also the writer, of the value and importance of the work, particularly when the record may be incomplete or conflicting. Though the ultimate validity of history must, of course, rest on the facts unearthed by the historian, the writer’s task to make sense of the data allows a great measure of individual discretion in interpretation and conjecture. Historical research and writing is meaningless without the rhetorical devices used by the histo- rian to provide continuity to what, without these devices, would be miscellaneous and disjointed fragments of fact.
+SPRING 1984 391
+ORVIN LEE SHIFLETT
+Historical rhetoric, like historical research itself, functions because
+it is provocative rather than precise and evocative rather than definite.
+Historical research cannot approach the total control of variables-or
+even identify the variables-that other research methods attempt. It can
+only function through the information available and that cannot be
+controlled by the historian. The imprecision of available data must be
+augmented by the imagination and talent of the historian so that the
+whole that the historian presents to the reader makes sense. The histo-
+rian must frequently abandon or go beyond the fact and speculate on its
+meaning through rhetoric-. Historians “deliberately choose a word or a
+phrase that is imprecise and may turn out to be ambiguous, because of
+its rich aura of connotation.” The sacrifice of precision for the images
+that rhetoric can produce is a unique contribution of the historical
+method to research in library and information science for “it is the best
+means a historian has for formulating and communicating what he
+knoivs.”’
+Comprehensive understanding of the totality of human experience is clearly inipossiblr, so historians are forced to select aspects of behavior to order their search for truth and, consequently, remove themselves further from that truth. But, by doing so, they make their data and conclusions manageable and meaningful in terms of their limited scope and piwpose. Tt’hy librarians became librarians or left libraries or why they- accepted their working conditions are, for the most part, unknown. At best, researchers can survey contemporary librarians to ascertain their attitudes toward their work and their relation to their feeling of a “profession.” But, these can only offer a partial view of the reality that constitutes librarianship. ‘Toget at the reality, the researcher must understand what actually moved women or men to accept the calling and what motivated them to commit themselves to it. The nature of the evidence is such that historians have to work from slight data to what can only be, at best, a tentative whole; and they must convince not from statistical inference, but from argument.
+Big History/Little History: The Question of Historical Significance
+The history of individual libraries as the modal form of library history has come under challenge in recent years, but it is no more a challenge than formal academic historians have presented to the emer- genre of local history as a specific area of study. The argument that the history of a local institution or geographic region is so limited in scope
+LIBRARY TRENDS 392
+The Role of Historical Research
+as to be irrelevant to the larger uses and needs of history begs the question of what precisely is a larger use of history.
+The formal academic discipline of history has largely resolved its own discomfort with limited topics through the establishment of a special form of “local history” that has its own internal justification of reputability; library history as yet has been unable to do so. Too much library history is written without reference to the larger American society, without an awareness of current historiographic assumptions, and seemingly as an exercise in the amassing of details to the disparage- ment of meaning. Indeed, in much library history we are handed the minute details of buildings, benefactors, and books, “but were it not for the names of people and places it might as well be in Timbuktu for all the attention that is given to the general backgr~und.”~This
+lack of a context for the history of libraries and of librarianship has led our research into a morass where a few high promontories of meaningful work have jutted above the general despondent slough.
+It has been widely maintained that the manner in which much library history has been created has amounted to a trivialization of the role of the library. Like the early local historians whose efforts con- founded the professional historians, library historians have been “con- tent to heap up all the facts they could discover, without order, art, or method, and with no criterion for distinguishing the trivial from the significant.”” The motive for library history frequently has not been for the solid purpose of true historical understanding, but more often for “ornament which is nice to have on the edifice, but really not very useful.”” Thus the nature of most library history has been an accumula- tion of facts and dates having little or no obvious relation to the larger issues facing librarianship.
+Despite these criticisms of “Little History,” it must be admitted that history progresses incrementally and it is the nature of library decision-making that the increments available for study are small ones. Maurice Tauber and Louis Round Wilson, in their classic text on academic library administration, addressed the incremental nature of library history when they observed that “only through a series of histo-ries of individual libraries will it be possible to write a comprehensive chronicle of American university libraries and of their role in higher education.”” This observation can, of course, be extended to any type of library. The idea is that the accumulation of a large number of individ- ual library histories upon which a synthesis can be based is necessary to the completion of any broadly-based study. A major problem with
+SPRING 1984 393
+ORVIN LEE SHIFLET?
+contemporary library history seems to be that there is little recognition that the information contained in individual library histories adds to the body of knowledge from which a larger perspective can be synthe- sized. There have been a few attempts to work from the shoulders of others to attack a broader history of libraries, but the available results have not been particularly successful. The work of Jesse Shera, Sidney Ditzion, and Arthur Hamlin, among others, stands as a monument to an attempt to create a new “frontier thesis” for library history. But beyond these, the work of those who write Little History has not been used to expand our larger historical consciousness.
+Yale historian Jack H. Hexter addressed the problem of historical significance and utility in his History Primer. Early historians schooled in the Germanic traditions of Von Ranke envisioned a total, universal history based on historians integrating the individual pieces into a coherent unity that would constitute an ultimate form of historical truth. The modern historian has set a more modest and, perhaps, a more attainable goal that recognizes the limitations of humanity and the historian:
+The notion that at this late date history is likely to rescue mankind from the impending ultimate consumation of its propensity for self destruction is not one likely to commend itself to a moderately skeptical mind. It is indeed grasping at a straw; but then in the past by grasping at enough straws and somehow patching them together, groups of men have man- aged to keep themselves afloat, and it is just barely possible that we (all mankind this time) can do it again. If keeping mankind afloat seems at all worthwhile doing, any straw that helps in the least to prevent the enterprise from sinking is worth adding to the too scant mass.13
+The raft of library and information science may not be that leaky, but frequently small pieces of “approximate truth” are better than no truth at all and attempts by other methodologies to sort out truth suffer from the same difficulty because of their inability to control an environment in which variables are measured, recorded and evaluated.
+Much of the notion that the larger issues are more amenable to “research” status than smaller questions can be attributed to the urge for “scientific” research. One of the more influential workers in the shap- ing of library research methodology has been Herbert Goldhor at the University of Illinois. Goldhor’s An Introduction to Scientific Research in Librarianship has become a standard. However, his emphasis on
+LIBRARY TRENDS 394
+The Role of Historical Research
+hypothesis testing over other less rigorous types of investigation has led to a demand for control in research design that militates against the vague formulation of hypotheses that is too common in history. Moreover, his insistence that “history is not written for its own sake, but to serve as a guide or help for men in handling problems today and tornorr~w”’~
+runs directly counter to the basic principle of the academic historian that historical research does indeed serve as its own justification.
+To limit historical research to that which is “generalizable” is to limit it to the realm of Big History and many valid and needed topics are ignored, disuaded, or, perhaps worse, undertaken as a sort of “antiquar-ianism” to commemorate the first century celebration of some library. Some outstanding individual library histories have arrived at the realm of Big History. Phyllis Dain’s history of the New York Oublic Library15 is an excellent example. But her work succeeds in the larger context because of the importance of the institution. Had this been the history of the Lacrosse, Wisconsin or the Malabar, Florida public library, it would not have received the respect it so deserves no matter how well it had been executed.
+The use of the hypothesis in library history does not preclude Little History-the group of individual library histories that make up the majority of the literature in the field. The kind of local library history called for by Tauber and Wilson provides the data collection without which larger perspectives could not be developed, but further, it offers test cases for the hypotheses that are developed by the larger perspec- tives. In none of the social sciences is an hypothesis concretely and forever proven. It is in the nature of the work that any conclusion must be tentative and serve as a guide for future research. History, and, especially, library history is no exception.
+Even broad-perspective history must recognize that historians can- not be absolutely certain that all the data has been found and that they have made sense of it. The nature of history requires a constant investi- gation of previous conclusions both in the large terms of movements and meanings and the testing of the hypothesis in smaller instances. It is, of course, unfortunate that most local library history fails to come to terms with the findings of the larger library world even though local library history can offer the researcher some tentative guideposts and does much to make obscure information accessible.
+Recent research has left us with a plethora of hypotheses that need further verification. As reaction to Michael Harris’s revisionist interpre- tation of the public library movement16 and criticism of the work of
+SPRING 1984 395
+ORVIN LEE SHIFLETT
+Jesse Shera and Sidney Ditzion indicates, the current health of library history has improved since the period when the interpretation of public library development was posited on a progressive view of American History. A basic reevaluation of the assumptions that underlay the work of most serious library historians in the 1970s has begun a process that may well retailor library history.
+We now havc several theoretical frameworks which we can begin to test on individual libraries. The work of Dee Garrison, for example, provides a view of the feminization of American public librarianship and its consequent effect on the developing profession which must be at least acknowledged by all future re~earchcrs.'~
+While plausibly argued, it is a vision that must be tested against the reality of the past of the public library. The best of library history provides us with the content by which we may avoid the narrow antiquarianism that characterizes Little (library) History. It offers a point of focus that could give the history of one library meaning in a larger context and thus rectify the too pervasive failure of library history to go beyond the immediate facts of the local historical record.
+Sources for Library History
+The data upon which historical analysis rests generally fall into two classes of documentary records-primary and secondary. Primary sources compose the evidence closest to the event under investigation. These documents usually are manuscript diaries or letters but they can be printed reports of the events as recounted by observers or participants. Secondary sources are usually printed reports of the event that use primary and other secondary sources as bases for data collection and are reported by a person other than a direct observer or participant in the events.
+Historians recognize sharp distinction between primary and sccon- dary sources, but in actuality, the distinction is not as precise as might be supposed. Samuel Swett Green's The Public Library Movement in the United States 1853-1893and, more recently, Arthur T. Hamlin's The University Library in the United States" both are examples of books written by men who supplement their own direct experience and par- ticipation in the events and phenomena described with written sources, both primary and secondary. As such they must be evaluated in parts based on the documentation upon which each section builds. Further, in some forms of historical analysis, the secondary source becomes the focus and thus gains the authority of primary evidence. A good current
+396 LIBRARY TRENDS
+The Role of Historical Research
+example of this is Stephen Karetzky’s analysis of the work of the early faculty of the LJniversity of Chicago’s Graduate Library School, in Reading Research and Librarianship: A History and Analy~is,’~ in which the research produced by the Graduate Library School’s faculty became the primary resource of study.
+While the emphasis of most historical research is on the discovery and use of primary sources, in many cases the existence of a body of published proceedings, such as those of the American Library Associa- tion, represents a primary resource for the collective values of a profes-sion that cannot be overlooked by the library historian. Library Journal and the ALA BulletinlAmerican Libraries represent, in a real sense, sources of “official” positions of American librarianship on a diversity of issues, some of which are only tangential to what is generally recog- nized as its professional domain. As such, these official positions assume an importance far greater than that of the individual librarians of the ALA committees that generate them. They do, in a real sense, determine the set of “social usages, beliefs, and current ideas [that] are imposed on individuals automatically” which Julian Marias has called “vigencia,” the network of “binding custom” that defines membership in a particular society. 20
+The normative activities of the professional schools and library associations, and the communication we have with other librarians, to a great extent determine or at least strongly influence librarians’ profes- sional reactions to their functions in society. It is obvious that every librarian did not and does not subscribe to the mores and culture of librarianship. This can be seen in individuals’ letters-to-the-editor when issue is taken with positions stated in prior articles. But the commitments to intellectual freedom, to faculty status for academic librarians, to the importance of school libraries in the education effort, and to any number of other attempts to define the librarian’s job and professional status are rarely seriously challenged in the library press.
+Early education for librarianship recognized the issue through its distinction between and occupation and a profession and in its insist- ence on a particular “kind” of person acceptable as a “professional” librarian. Melvil Dewey attempted an early definition of the type of person fit for this calling in his assertion that education for librarian- ship could never train the “complete” librarian. He made an explicit distinction between what schools could do-train librarians in the housekeeping activities-and what they could not. They could not prepare librarians at what Dewey visualized as the “moral” plane of existence, “where the librarian puts his heart and life into his work with
+SPRING 1984 397
+ORVIN LEE SHIFLETT
+as distinct a consecration as a minister or missionary and enters the profession because it is his duty or privilege.” It was at this higher level that Dewey and other early edurators who were his followers placed the true profession of librarianship.” By subscribing to this sentiment, library educators did little but teach the library hand, accessioning, and other mechanical tasks, relying on the schools’ admissions policies to ensure that only the truly committed person was allowed to participate in the profession.
+In this way, the personal characteristics of the individual librarian became a primary determinant of the professional focus of librarian- ship. But, if this were a fundamental truth, it would seem logical that biography should be a major emphasis in library research. Aside from an armload of good, competent biographical studies-among them those of Marion Caseyon Charles MrCarthy, Edward Holley on Charles Evans, William Williamson on William Frederick Poole, Laurel Grotzinger on Katharine Lucinda Sharpe, and Edward Miller on Antonio Panizzizz-there are few that merit attention as more than eulogies. The recent publication of the Dictionary of American Library Biographyz3 has helped, but the nature of a compendium of short biographical sketches cannot provide what is needed-a substantial body of work on important and even unimportant librarians that can add substantially to our knowledge of how generations of librarians viewed, performed and realized what they considered their professional role in society.
+It is unfortunate that the problem of obtaining source materials for library biography is so difficult. It is even more so that the potential publishers for finished biographies are so meager. The fact is that library biography simply is unpopular. Librarians are not great war- riors, inventors or movers in the world. Rather, they contribute to the innumerable derisions that arcumulate to form the reputation of a library. As British library historian James G. 0116 has observed: “The public will always be more inclined to read the life of a libertine than a librarian, whatever its literary merit. Casanova was both, but not (unfortunately for library biography) at the same time.”z4 We hope that most librarians are at least as “1ibertinarian”-or at least as interesting as the rest of humanity-but the romance of a giant is much morelikely to be a commercial success than that of the common man or woman. At the 1854 conference of libararians, Charles Coffin Jewett expressed his view of the public persona of the librarian when he observed in his opening remarks that “we are not here for stately debate, for conspicu- ous action, much less for an exhibition of ourselves. These are things foreign from our vocation, and not congenial with our tasks.”z5 The
+LIBRARY TRENDS 398
+T h e Role of Historical Research
+readership of biographical work on librarians has probably found little to contradict this since then.
+Library biography is such that even those who break the mold of self-effacement are seldom seen. It took sixty-two years for the story of Klas August Linderfelt to emerge from ALA’s darkest closet.26 But Linderfelt was an ALA president. Of equal interest to those who would know the mind and heart of the librarian is the tale of John W. Harbourne, librarian of the Alameda California Free Library. In 1898, Harbourne absconded with $2,300of the library’s funds to the Klondike where, after “taking up promising mining claims,” he wrote back to the trustees promising “to make good all shortages within a year.”27 It must be added in defense of library education that Harbourne’s preparation for this position was eighteen years’ experience as a San Francisco bookseller.
+Harbourne was an atypical librarian and the record is as quiet on his eventual fate as it is on that of most librarians, for most areand were committed to professional service and as unobtrusive as Jewett. What- ever the immediate implications of this unobtrusiveness, it does point to an attitude of librarians that their own records are of less value than those they keep for others.28 A major part of the occupation of librarians is that of keeping the records of others, whether in printed form, or manuscript or whatever. Most good librarians would consider a laundry list of Albert Einstein or Henry James a major acquisition, but upon their retirement or earlier, they would discard as trash their own drafts of their speeches accepting the presidency of ALA.
+The availability of primary sources and, in many cases, that of secondary sources for biographical treatment of librarians or for the treatment of an individual library is usually problematic. Few libraries keep adequate records to verify the published memoirs of a Keyes Metcalf or Sydney B. Mitchell. Libraries are excellent at keepingrecords of housekeeping statistics, but the information that would make history real and meaningful is too often lacking. Why was one librarian hired over another or one book purchased rather than another? What was the role of the trustees, the mayor or the faculty in selecting a library director? What were the events in the power struggle that led to the firing or resignation of the last library director? All these are basic questions in the life of any library that remain largely unanswered and usually unmentioned in the sketchy archives of most libraries. It is most unfortunate, but the situation exists that the record of the hopes and aspirations ofgenerations of librarians has been essentially lost. It must be said, though, that this situation is not unique to library history.
+SPRING 1984 399
+ORVIN LEE SHIFLETT
+TOsome extent this problem is being addressed by ALAiLHRT’s oral history census project that seeks to compile a directory of the various oral history interviews of librarians that are held in collections around the country. It is unfortunate that these are so sparse. There is a pressing need for a coordinated oral history project that could give direction and control to the desultory efforts that have been carried on through the passing interests of library school faculty members and students. ’The idea has at least gotten as far as discussion at the 1983 LHRT business meeting at AL.A’s LaosAngeles conference where Doris Cruger Dale of Southern Illinois University reported on the status of her project to compile a directory of oral history interviews of librarians.
+While the possibility of interviewing the early leaders of ALA and other librarians of the time is lost, there are still many living librarians who made their professional contributioris in the first half of the twen- tieth century. This represents a potential resource of tremendous value for the future library historian. Used in conjunction with archival materials, printed primary and secondary sources, and other oral history interviews, thesc promise a new horizon in resources for library history.
+The reccnt publication of the National Catalog of Sources for the History of Z2ibrarianship as a supplement to the Guide to the American Library Association Archivesz9 is a major breakthrough in the problem of identifying primary soiirce collections for library history. This “handlist” had, of necessity, to ignore the archival collections of thou-sands of individual libraries, and according to Marion Casey’s introduc- tion, it had the necessarily modest purpose to “merely indicate starting places at which to begin the quest for thecomplete~tory.”~~
+But this and the ALA Guide do at least give us starting places that did not exist only a few years ago. LJseof these guides coupled with logic and the serendipity that is essential to all fruitful historical searches will serve library historians as invaluable aids.
+The publication in 1976 of Anne and Melbourne Jordan’s author index to Cannons’s Bibliography of L,ibrary Economy and the work of Larry Barr, Haynes McMullen and Steven Leach in Libraries inAmeri-can Periodicals before 187631have greatly eased the tedium of searching for contemporary materials of the nineteenth and early twentieth cen- turies. The updating of Cannons’s and bringing together librarians’ published efforts has made unnecessary the convoluted searches demanded by Cannons’s birarre chronological/subject arrangement. The Jordans’s work has vastly expanded the usefulness of Cannons’s basic bibliography. Though the Barr-McMullen-Leach bibliography has not been available long enough for adequate evaluation, it too
+400 LIBRARY TRENDS
+The Role of Historical Research
+promises to make a major impact on our approach to the literature of nineteenth-century librarianship.
+Secondary sources provide a different sort of problem. History is not a unified discipline-however, it is articulated and organized in academic institutions. It is essentially a research methodology, and secondary sources directly relating to the history of libraries, informa- tion centers and all other aspects of the field may be found anywhere. An example of this is the doctoral dissertation of Joseph Borome, the standard biography of Justin Winsor, which was done through the Political Science Department of Columbia IJniver~ity.~’
+The recently published bibliography of Michael Harris and Donald Davis33 has done much to bring together a broad spectrum of secondary sources from diverse disciplines. Though it is far from complete, and like any such effort has minor errors, it is a monument to the tenacity of the biblio- graphers. The “year’s work” series of the Journal of Lzbrary History will act as a supplement to this most basic of bibliographies.
+It must be remembered, though, that libraries are institutions that live in symbiosis with other, larger institutions. The history of these larger institutions and the bibliographic net that supports that work cannot be ignored by library historians. Thus, depending on the histori- an’s intercst, Cordasco and Brickman’s bibliography of American edu- cation34 and the various other specialized guides to institutional history must be consulted. These can be ignored by library historians only if they ignore the larger context of libraries as social institutions.
+The sources, both primary and secondary, of library history are sparse in some areas and undoubtedly more difficult to access and utilize than those in manv other areas of historical research. But, they do exist. While bibliographic work in recent years has made the task of the historian much simpler in identifying sources, it must be remembered that material relevant to any specific project can be found almost anywhere. Persistence in the search must continue far beyond the imme- diately apparent sources of information.
+Publishing Library History
+The researcher utilizing historical methods has one advantage over other researchers in the number of potential publishing outlets availa- ble. Most library and information science research is limited to a small number of core journals and monograph publishers in the field with only the occasional publication in outside sources of research with direct library implications and applications. History, however, is a
+SPRING 1984 401
+ORVIN LEE SHIFLETT
+generalized field. Any phenomenon is fit for the historian’s scrutiny, and there is little or no arcane vocabulary beyond that inherent in the subject of the study itself that would detract from the essential clarity of good historical rhetoric and research. History is accesible to the general reader, and, because of this, library history may be published in a wide variety of sources. The dedication of the November 1983issue to library history of a magazine such as Cobblestone: the Hzstory Magazine for Young People points to the wide diversity in potential sources.
+Reports of historical library and information science research are relevant to a wide variety of topics of interest to librarians, information specialists, and general historians; and they are published in both the established core research journals and the popular ones, indicating a broad receptiveness to the historical approach in library and informa- tion science. But library historians are not limited to these outlets. Virtually every state has its history publication-as well as many more local ones-which would be receptive to competently executed articles on library history. Regional historical journals also abound. While the national historical journals have sizable backlogs, there is nothing inherent in library and information science to prohibit publication of its history in them. Further, types-of-institution journals may serve as sources for types-of-libraries histories. Academic library history may be published in journals of higher education, school library history in elementary and secondary education journals, and special library his- tory in various professional, occupational and trade and industry jour- nals. Other publication interests of historians in the field can be absorbed by such specialized sources as the Papers of the Bibliographi- cal Society of Ameraca, the Journal of the American Society for Informa-tion Science and a great number of management journals.
+Conclusion
+“Library history” is a rubric that covers a myriad of topics asso- ciated with libraries and other information systems. Its major form consists of the history of the traditional library, but it also includes the history of any activity or event that might be part of the domain of library and information science. The use and the users of materials, the problems of governance and employment, the production of resources collected and organized by librarians, and the role of governments in support of information activities are all legitimate concerns of library history-just as they are valid objects of other forms of research.
+LIBRARY TRENDS 402
+The Role of Historical Research
+Of the research methodologies in library and information science, history is probably among the most popular and, probably among the least understood. The assumption is made, even on the part of those actively involved in the research that an understanding of history is a luxury compared with the more pressing problems facing the practice of library and information science. History, of course, cannot be written with any different purpose than an understanding of the immediate phenomena at hand. Any other reason for the writing will tend to cast the work in the form of propaganda rather than research. But history does have uses.
+First, historical research can help establish the context in which librarians work and it can fulfill their functions in society. The status of women in librarianship, for example, has been a topic of increasing concern in recent years. To fail to understand its historical roots in society and in the establishment of librarianship as a formalized occupa- tion in the late nineteenth century is to underestimate grossly thedegree to which attitudes toward women and work have influenced the evolu- tion of librarianship. Substantial advances in our knowledge of this important area can be made through other methods; but without histor- ical depth, research tends to drift off into prescriptive conclusions that do not recognize the tremendous inertia of the surrounding society. The same context is important in other areas such as the status question in academic librarianship, the relationship of the school librarians to the classroom teacher, or the role of the special librarian in research and development and in management.
+Second, the details of the history of libraries are significant in and of themselves. To know that a library contains a strong collection of Faulkner material may suffice for most practical purposes, but to know also that it is a public library, that it is in the Northwest serving a population of 5000 and the collection was acquired in the 1950s by a library director who was a personal friend of the author is to approach true understanding of the collection and its purpose in the library. Every library or information delivery system is the product of acquisition, personnel, facility, and other decisions that are made over time. Few collections of enduring value are built by satisfying current demands; and when librarians select some items in anticipation of future users’ interests, or when they consider future generations’ interests as one aspect of policy making, record keeping or collection development, librarians show their appreciation of their own history.
+Lastly, history offers each librarian a direct opportunity to partici-pate in the cooperative research effort. The writing of history requires
+SPRING 1984 403
+ORVIN LEE SHIFLETT
+no facility with esoteric researrh tools. The proper use of sources requires care, intelligenre, patience, and, frequently, pure luck. These are not talents beyond the abilities of most librarians. Further, the dispersion of resourres in library history is such that individual librar- ians, through testing hypotheses suggested by other research on their own records, ran make a significant contribution to library and infor- mation science research. The existence of numerous journals for the publication of such “little history” should serve as an encouragement. Library historians may not rereive credits toward promotion through their research activities, but they can realize their professional commit- ment through their rontribution to our greater understanding of the development of the profession.

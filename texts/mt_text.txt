@@ -1,0 +1,342 @@
+2 Establishing the new society
+After CERME 1, three main challenges had to be met by the ERME Board elected
+in Osnabrück: (1) to take initiatives to prepare a new generation of European
+researchers in mathematics education according to the ERME spirit; (2) to involve
+a sufficiently large number of European researchers in mathematics education, in
+order for CERME to become the representative forum of European research in
+the field; and (3) to ensure stability to the new-born society through a legal status
+anchored in the laws of one of the European countries. At the same time, the
+society and its initiatives had to be opened to countries beyond Europe, in order
+to promote worldwide scientific exchanges in the field.
+From the very beginning, the society has been linked to the organisation
+of the CERME conferences with a wide spectrum of themes and orientations to
+profit from the rich diversity in European research, as will be demonstrated in
+the various chapters of this book. The conferences have been structured around a
+number of Thematic Working Groups (TWGs), each with a designated research
+focus. Participants have particularly appreciated the concrete possibility, offered
+by the TWGs, to develop their personal research through systematic, collaborative work with other researchers engaged in the same area, and to get constructive
+feedback from them on their papers (before, during and after the conference).
+Since CERME 10 there has been an open call for new TWGs: the current call can
+be found on the ERME website (www.mathematik.uni-dortmund.de/~erme/).
+The International Programme Committee (IPC) of each CERME is elected by
+the ERME Board, as is the IPC chair. The choice of TWGs and their leaders is
+discussed in the IPC and approved by the ERME Board. The decision to include
+a new group is taken according to the nature, focus and relevance of the research,
+its potential to attract participants, and its distinction from existing groups. The
+choice of group leaders and co-leaders is an important lever for ensuring the quality of work in the group, for planning activities to include all those who wish to
+participate and for opening the society to the diversity of research in Europe.
+From CERME 1, the tasks of drawing up a constitution and establishing a legal
+status were undertaken by the ERME Board mainly thanks to the extraordinary
+work performed by Board member Graham Littler (UK). On behalf of ERME, he
+approached the UK Charity Commission to request charitable status in the UK,
+and dealt with the very complicated paperwork involved. In CERME 3 a draft was
+presented and voted on, as a basis for the formal establishment of the society. This
+was proposed in the General Meeting at CERME 4 and ratified in CERME 5.
+An important issue of ERME policy consists of supporting and educating new/
+young researchers in mathematical education. The Board elected at CERME 2 in
+2001 gave the task of designing a Summer School to Paolo Boero, Barbara Jaworski
+and Konrad Krainer. It was to be held every two years in alternate years from the
+CERMEs. The main target population consisted of PhD students in mathematics
+education. By analogy with CERME, the Summer School was conceived as a
+working place for students. TWGs (led by “expert” researchers – about 60% of
+Introduction by ERME’s former presidents 3
+the whole time) offered students a unique opportunity to present the current status
+of their research (be it initial, or near to the conclusion), to receive constructive
+feedback from the “expert” and from the other participants and to establish links
+with other young researchers interested in the same subject.
+The first Summer School, held in Klagenfurt in 2002, showed that the design
+of the school was suitable to meet the students’ expectations. Gradually the number of applicants rose from 40 in Klagenfurt to more than 100 (resulting in 72
+participants) for the last four schools, including students from other continents. In
+parallel with the design and the implementation of the school, the Board helped to
+set up an informal branch of the society, YERME (Young European Researchers
+in Mathematics Education), to be involved in the preparation of the school and in
+other initiatives of interest to young researchers. The decision was formally taken
+in the General Meeting in CERME 8 when the first two representatives of young
+researchers in the ERME Board were elected. From the institution of YERME,
+the summer schools took on the abbreviation of YESS – YERME Summer School.
+YESS 9 is being prepared as this book goes to press.
+Another important issue, from the beginning of ERME, CERME and YESS,
+was the encouragement of mathematics education researchers from Eastern Europe
+to join in ERME activities. For this purpose, ERME designated funds to contribute to travel and accommodation where financial hardship was demonstrated.
+When, in 2009, very tragically, Graham Littler died, the ERME Board decided
+to name this fund the Graham Littler Fund. Since then, this fund has been topped
+up regularly and used to provide financial support for participants to CERME and
+YERME where a need has been identified.
+During the years 2001–2005, when it was important to ensure the representativeness of the new society, the Board worked hard to establish relationships with
+several research groups and existing national societies in the field of mathematics education; also researchers from other continents were invited to join ERME
+initiatives. As a result, the number of participants in CERME doubled at each conference until CERMEs 5, 6 and 7, when it stabilized at about 450–500 participants.
+It increased anew up to about 700 participants in CERMEs 9 and 10.
+3 Scientific quality and inclusion in CERME conferences
+From the very beginning, the issues of quality and inclusion in CERME conferences were main concerns of the society. Quality refers to scientific standards
+relating to papers presented and published, and to activity in the TWGs. Inclusion
+refers to ways in which participants are included in activities in the groups, and in
+presentations and published papers. CERME’s policy of encouraging presentation
+(after two rounds of revision) of as many papers as possible was sometimes seen to
+act against high scientific standards. Seeking a balance between quality and inclusion was seriously problematic.
+In CERME 6, held in Lyon, France, members of the ERME Board collected
+data in several ways from delegates at the conference concerning issues related
+4 Arzarello et al.
+to quality and inclusion in CERME conferences. In response, one group leader
+wrote: “Being all-inclusive and academically qualitative are a priori incompatible.”
+While this is an individual view, it nevertheless flags a tension between inclusivity and scientific quality. Participants acknowledged that newcomers are drawn
+quickly into the activity of the group. There were almost no comments that suggested that group work was not friendly and welcoming, that participants were not
+(overtly) encouraged to take part and join in the discussions. In scientific terms,
+we can see inclusion to be facilitated through the review process in which a critical review can be helpful and supportive and enable the improvement of a paper.
+However, to quote Gates and Jorgensen (2009, p. 164), we were aware that “the
+field . . . in which the participants engage recognizes and conveys power to those
+whose habitus is represented and privileged in the field”. Thus, and according to
+Atweh, Boero, Jurdak, Nebres and Valero (2008, p. 445), “collaboration between
+educators with varying backgrounds, interests and resources may lead to domination of the voice of the more able and marginalization of the less powerful”.
+Such considerations led Jaworski, da Ponte and Mariotti (2011) to start characterising inclusion and quality and to relate the characterisation to the specific aims
+of ERME in terms of Communication, Cooperation and Collaboration, in contributing to the ERME spirit. Inclusion is characterised in affective and scientific
+terms. Quality is characterised scientifically through “key ideas” and their development. The key ideas need to be there for scientific quality to exist at all; they
+need to be engaged with for scientific quality to be recognisable in the activity of
+a group. We present below how it works in CERME.
+Starting communication: Participants have read the accepted papers; they come
+together with friendliness and the sincere desire to work inclusively. There are key
+ideas in the accepted papers to which the review process draws attention. Activity
+and discussion begin to encourage communication related to the ideas where the
+objective is to know each other’s ideas and relate them to each other.
+Developing cooperation in engaging with debate: Group organisation enables a focus
+on the key ideas. Friendly and considerate interaction, with attention to language
+enables participants to start to engage with the ideas. The emphasis is on including all people attending a TWG, including those who do not present accepted
+papers, in order to get reactions, questions and comments. This group activity
+may contribute, on the one hand, to improving the accepted papers (in terms of
+their revision for publication in the final proceedings), and on the other hand, to
+improving the quality of all participants’ research work.
+Developing cooperation in recognising ideas: Group leaders create activity to encourage a focus on getting participants engaged with the key ideas which are recognised.
+The emphasis is on reaching a quality of interaction relating to scientific ideas.
+Enabling collaboration: Here we see an enabling of critical inquiry into the essences
+of the ideas; deep engagement of a scientific quality with deep probing of ideas and
+corresponding critical debate. From here, collaboration can begin.
+It seems clear that, for the last point to be possible, both the second and third
+have to be achieved. This means dealing with the organisational challenges raised
+Introduction by ERME’s former presidents 5
+in the CERME 6 survey, which are far from trivial. However, it could be that a
+theoretical perspective of this sort, of what is involved in achieving inclusion and
+quality in group work in CERME, can act as a basis for thinking about dealing
+with the challenges and conceptualising in practical terms what we are aiming for
+in CERME.
+4 Carrying on strengthening the society
+From 2009, the main activities of ERME, in particular CERME and YESS, continued and expanded further. We stress below some of the main ERME activities
+contributing to the development and visibility of the society.
+During this period, the number of participants from developing countries was
+increasing, due to the growing effort of ERME to support people from those
+countries through the Graham Littler Fund. Two decisions, taken during the
+General Meeting in CERME 7, contributed to expanding ERME beyond the
+strict boundaries of Europe. The first concerned countries from North Africa.
+While these countries were living the exciting period of the so-called “Arab
+Spring”, some researchers were attending CERME 7 and claimed that the possibility for them to take part in events like CERME was important also for the progress
+of democracy in their own countries. Thus it was decided that researchers from
+these countries could apply for financial support from the Graham Littler Fund.
+The second was the decision of the ERME Board to organize the first CERME
+outside the European Union, namely CERME 8 in Turkey.
+Since 2011 ERME has become an affiliated society of ICMI (International
+Commission on Mathematical Instruction). As such, ERME has the opportunity
+to present a quadrennial report to the General Assembly of ICMI, so that ERME
+activities can be known by the whole world community working in mathematics
+education. More generally, an important concern was to encourage the European
+research community to develop relationships with mathematicians and to take
+part in the ICMI activities. ICME-13 in Europe in July 2016 was a wonderful
+opportunity to improve the international visibility of ERME. As an ICMI affiliate
+organisation, ERME organised two sessions, one a general presentation of ERME
+with a focus on teacher education research, the other on YERME.
+A further action of ERME in recent years concerned the issue of rating of
+publication outlets. As is well known, it is very difficult to escape the influence of
+the ranking and grading of scientific journals for the development of researchers’
+careers. However, the current systems are often based on crude bibliometric analyses that have little to do with scientific quality. This represents a disadvantage for
+researchers in the field of mathematics education. For this reason, ERME, together
+with the Education Committee of the European Mathematical Society (EMS),
+and supported by the ICMI, decided in 2011 to appoint a joint commission, with
+the aim to propose a grading of research journals in mathematics education based
+on expert judgment. The result of their careful and joint analysis, based on consultation with 91 experts from 42 countries, was a document rating the 17 most
+6 Arzarello et al.
+important journals in mathematics education on a scale with four grades (Törner &
+Arzarello, 2012). We understand that this document has been used by some official
+boards charged with assessing the work and the consequent promotion of mathematics educators.
+Another very important issue is the publication of the proceedings for each
+CERME conference. All the proceedings are available online on the ERME
+website and since CERME 9, thanks to Nad’a Vondrovà and Konrad Krainer,
+CERME Proceedings are also available on the open Archiv HAL, managed by
+the French CNRS (Centre national de la recherche scientifique). A detailed list
+appears at the end of the Preface of this book.
+A further decision concerned the ERME Topic Conferences (ETC), which are
+conferences organised on a specific research theme or themes related to the work
+of ERME as presented in associated working groups at CERME conferences.
+Their aim is to extend the work of the group or groups in specific directions with
+clear value to the mathematics education research community. These initiatives
+take place during the year in which CERME does not take place. After careful
+preparatory work, in the General Meeting in Prague (2015), the rules for ETCs
+were approved. Three ETCs were held in 2016, and three were approved in 2017
+for appearance in 2018.
+5 Conclusion
+A main objective of this Introduction is to present the evolution of the spirit and
+the activities of ERME to the reader of this book as background for the core
+chapters of the book (Chapters 1–18), which are based on the work of the TWGs
+at and between the conferences of the society. Another objective is that present
+and future members of the society, who have not taken part in its evolution and
+its activities, should know how choices have been made, and then re-thought and
+deepened (according to accumulated experience). In doing so, we wish to stress
+that the future of the society is in the hands of the members and not in the paragraphs of the Constitution.
+In addition, we wish to illustrate how ideas about the society and its activities have progressively matured and how emerging needs have been taken into
+account. We hope that ERME’s “historical” evolution will give a concrete idea of
+the openness of the society and of the deep reasons why CERME, YESS and the
+other ERME initiatives are organized in the present way.
+Acute
+Adjacent
+Alternate
+Angle
+Area
+Ascending
+order
+Average
+Axis
+of
+symmetry
+Baker’s
+dozen
+Base
+Base
+angles
+Bisect
+Breadth
+Capacity
+Cardinal
+number
+Carroll
+Diagram
+Circumference
+Composite
+number
+Congruent
+Consecutive
+Coordinates
+Denominator
+Descending
+order
+Diagonal
+Difference
+Digit
+Digital
+root
+Dimensions
+Dodecagon
+Edge
+Equation
+Equilateral
+triangle
+Even
+number
+Exterior
+Face
+Face
+value
+Factor
+Greater
+than
+Gross
+Hendecagon
+Heptagon
+Hexagon
+Horizontal
+Improper
+fraction
+Integer
+Interior
+Intersection
+Irregular
+shapes
+Isosceles
+triangle
+Kite
+Less
+than
+Line
+of
+symmetry
+Lozenge
+Mean
+Median
+Mode
+Multiple
+Numerator
+Oblique
+Oblong
+Obtuse
+angle
+Octagon
+Odd
+number
+Ordinal
+number
+Parallel
+lines
+Parallelogram
+Perimeter
+Perpendicular
+line
+Place
+value
+Polyhedron
+Prime
+number
+Product
+Quadrant
+Quindecagon
+Quotient
+Rectangle
+Reflex
+angle
+Rhombus
+Roman
+numerals
+Rotational
+symmetry
+Rounding
+Scalene
+triangle
+Score
+Square
+number
+Squared
+Sum
+Symmetrical
+Tally
+Tessellation
+Tetragon
+Translation
+Trapezium
+Triangular
+number
+Trigon
+Vertex
+Vertical
+line
+ABSl”BACT Tridiagonal or Jacobi matrices arise in many diverse branches of mathematics and have been studied extensively. However, there is little written about the inverses of such matrices. In this paper we characterize those matrices with nonzero diagonal elements whose inverses are tridiagonal. The arguments given are elementary and show that matrices with tridiagonal inverses have an interesting structure. 1. INTRODUCTION In [l] we gave a probabilistic proof of a theorem which characterized the inverses of positive definite symmetric tridiagonal matrices. The proof ap- peals to the properties of covariance matrices which are necessarily positive definite and symmetric, but the restriction to positive definiteness seems artificial in the statement of the theorem. Furthermore, the theorem also applies to nonsymmetric matrices if we suitably extend a definition in [l]. In this paper we give an elementary algebraic proof of the theorem which eliminates the need for these restrictions. However, we feel that the original proof is still important not only because it illustrates a number of important probabilistic ideas, but also because it was the natural avenue for discovery of the theorem. There is a theorem along similar lines in Gantmacher and Krein [2]. See also Karlin [3, pp. 110-1141. 2. MAIN RESULT DEFINITION. A matrix A is tridiagonal if Aii=O for Ii-j]>l. LINEAR ALGEBRA AND ITS APPLZCATZONS 27:211-217 (1979) 211 0 Elsevier North HoIland, Inc., 1979 0024-3795/79/050211+ 7$01.75
+212 WAYNE W. BARRETT DEFINITION. Suppose R is an n X n matrix whose diagonal elements &a&,..., R,_ In_ 1 are nonzero. We say that R has the triangle property if hk Rk/ ei=x- for all i<k<j kk For symmetric matrices Eq. (2.1) reduces Rik Rh &f=R kk for all or equivalently andall i>k>j. (2.1) to the definition given in [l]: i<k<j; (2.1s) for all i<i. (2.2) Equation (2.2) shows that in a symmetric matrix with the triangle property all elements Rii are determined by the elements on the main diagonal and superdiagonal. Figure 1 illustrates this formula. To determine the element Rii in the matrix R, draw horizontal and vertical lines back to the main diagonal and then multiply along the superdiagonal to find the numerator and along the main diagonal to find the denominator as indicated in the figure. Hence the name triangle property. For a nonsymmetric matrix, Eq. (2.2) shows all elements in R above the main diagonal are determined by the elements on the main diagonal and superdiagonal, while a similar formula determines all elements below the main diagonal in terms of the elements on the main diagonal and subdiago- nal. Our main theorem is: THEOREM 1. Assume R is a nonsingular n x n matrix whose diagonal elements R22,...,R,--ln--l are nonzero. The matrix R bus the triungb prop- erty if and only if its inverse A is tridiagmul. i,i a _ - - - _ _ - ; i,j i+l, i+l w j-l, j-l J*J FIG. 1.
+INVERSES OF TRIDIAGONAL MATRICES 213 Before giving the proof of the theorem we wish to compare it with the theorem of Gantmacher and Krein [2]. DEFINITION. Following Karlin [3, p. 1101, we call R a Green’s matrix if there exist numbers a,, . . . ,a,, b,, . . . , b, such that Rij = am,(i,i)kax(i,i) = ai+, i < j, aibi, i >i. Gantmacher and Krein use the term “einpaarige matrix,” and in [l] we used the terminology that R “factors.” The theorem in Gantmacher and Krein [2], remark (g) on p. 95, states that nonsingular symmetric tridiagonal matrices whose super-diagonal ele- ments are nonzero and nonsingular Green’s matrices composed from nonzero q,bi (i=l,..., n) are inverses of each other. This statement is incorrect, as the following counterexample shows. The matrix i 0 1 1 1 1 1 0 1 1 J is a symmetric tridiagonal matrix with nonzero superdiagonal elements, and yet its inverse has zero entries. However, this inverse is a Green’s matrix with al = 1, a,= -1, a,=0 and b,=O, b,=l, b,= -1. There is no error in the argu- ments preceding Remark (g) on p. 95. This remark was merely an inaccurate summary of those arguments. The theorem is true if we remove the restric- tion on the.u,, bj and allow them to assume the value zero. (Note: If R is a nonsingular Green’s matrix, a, and b, are necessarily nonzero.) The theorem of Gantmacher and Krein can then be stated as follows: THEOREM 2 (Gantmacher, Krein). The matrix R is a nonsingular Green’s matrix if and only if its inverse A is a symmetric tridiagonul matrix with nonzero superdiagonul elements. Neither Theorem 1 nor Theorem 2 is a special case of the other. In Theorem 2 there is a restriction on the superdiagonal elements of A but no
+214 WAYNE W. BARRETT restriction on the diagonal elements of R. In our theorem there is a restriction on the diagonal elements of R, but no restriction on the superdi- agonal or subdiagonal elements of A, and we allow R to be nonsymmetric. A nonsingular Green’s matrix composed from nonzero a,, b, has the triangle property [Eq. (2.1591, since %%j ai bk a, bi -=- Rkk akbk = Rii. Hence by Theorem 1 its inverse A is tridiagonal, and it is easily seen that no superdiagonal element of A can be zero. Conversely, if A is a nonsingular symmetric tridiagonal matrix with nonzero superdiagonal elements whose inverse R has nonzero diagonal elements, then by Theorem 1, R has the triangle property. If a superdiagonal element of R were zero, one could show the corresponding superdiagonal element of A was zero. Therefore all superdiagonal elements of R are nonzero, and setting R,,R,,* . . Rii a’ = R,,R,,. . . Ri_li ’ bi= RR’2 ***Rj_lj 11’ * * Rj-li-l ’ we find R is a Green’s matrix composed from nonzero ai, bi. Thus if one wishes to restate the original theorem of Gantmacher and Krein in terms of Green’s matrices composed from nonzero a,, bi, the theorem is a corollary of Theorem 1. 3. PROOF OF THEOREM I We first define dii =RiiRii - RiiRti for all 1 <i,j<n and begin with the lemma, LEMMA 1. If R has the triangk property and if dkk+ 1 = 0 fur some k,k=l,..., n - 1, then R is singular. proof* SupPosedkk+l=RkkRk+Ik+l-Rkk+lRk+Ik=O. Case 1. If RkkRk+lk+l =O, then k=l or n-l. Suppose k-l. Then R,,R,,=O. R,,#O, so R,,=O. Since R,,R,- R,,R,,=O, RI,=0 or R,,=O.
+INVERSES OF TFUDIAGONAL MATRICES If R,,=O, then R12R2k hk= R -so 22 for k>2. 215 Thus RI,=0 for k=l,..., n, which implies R is singular. If R,, = 0, then Rk2R21 Rk,=R=O for k>2. 22 Then R,,=O for k=l,..., n, and R is singular. The case k = n - 1 is similar. A, Rkk+l a=-=R * R k+lk k+lk+l Then for j>k+l R R kk+l k+li Rki= R = “Rk+li, k+lk+l while for j <k R R k+lkRkj % k+lj= Rkk =-* a Thus Ry=(YRk+li for /=I,.... n. Since the kth row is a multiple of the k+ 1st row, R is singular. H REWRK. Actually the determinant of a matrix R with the triangle property is given by detR= $G;; y-y, 22’ * n In 1 (3.1) from which the above lemma follows immediately. See [4] for a proof of this formula.
+216 WAYNE W. BARRETT Given a nonsingular matrix R with the triangle property, it now follows that the inverse is tridiagonal because it can be written down explicitly: for [i-j/=1, di-li+l ‘ii di_,idii+, for i=j#l,fl, Ai/= R, I- d 12 for i=j=l, (3.2) R n-ln-1 d for i=j=n, n-ln 0 for Ii--jj>l. c One verifies that IL4 = I by a direct calculation, making use of the triangle property. The lemma guarantees all the denominators are nonzero. The discovery of this formula for the Aii came from investigation of Markovian normal densities [5]. This completes the proof of the theorem in one direction. Now assume A is a tridiagonal, nonsingular matrix. We wish to show that R = A -’ has the triangle property provided, R,, . . . , R, _ 1 n _ 1 are not zero. We use the standard symbol R ( ;::::::;) to denote the minor formed from the i 1 ,..., ik rows and jr,. . ., jk columns of R. We likewise use the corresponding notation for the matrix A. Since R,,, . . . , R, _ 1 n _ 1 are not zero, the triangle property is equivalent to proving that =0 for all i<k<j, =0 forall j<k<i. Since A-‘= R, by the well-known formula for inverse determinants, (see e.g. [3, p. 51L k-l,k+l ,..., j-l,j+l,..., n R;, (’ ) : =(_,)i+i l,..., i-l,i+ketAk-l,k+l,..., 71 .
+217 INVERSES OF TRIDLAGONAL MATRICES Thus we must show that for i <k <i. (The other case is totally analogous.) We claim that since A is tridiagonal, the above determinant is obviously zero. Consider the first k - 1 rows of the associated matrix. The last n - k elements of each of these row vectors are all zero, i.e., we have k - 1 vectors which have nonzero components in at most k -2 places (the same k -2 components for all k - 1 vectors). Thus these k - 1 vectors are linearly dependent, and the above determinant is zero. This completes the proof of Theorem 1. n We wish to thank the referee for the above proof of the second part of Theorem 1; i.e., if A is tridiagonal, then R has the triangle property. His argument was much shorter than the original oruz. REFERENCES W. Barrett and P. Feinsilver, Gaussian families and a theorem on patterned matrices, J. Appl. Probability 15:514-522 (1978). F. R. Gantmacher and M. G. Krein, Oszillutionmuztri.zmen, Oszillutionskerne und kleine Schtingungen mchanischer Systeme, Akademie-Verlag, Berlin, 1960, p, 95. S. Karlin, Total Positiuity, Vol. 1, Stanford U. P., Calif., 1968. W. Barrett and P. Feinsilver, Inverses of banded matrices, Linear Algebra and Appl., to appear. W. Feller, An zntroduction to Probability Theory and its Applications, Vol. 2, 2nd ed., Wiley, New York, 1971, pp. 94-99.
+
+338 W. Gautschi Then 2.+1 X le,,[ =<([sl +ltl)/I (~ +l~,l), pt=O v=l where equality holds i/and only i/x,,-----Ix,,[ e i~, v = 1, 2 ..... n. Proof. Since p~.(x) = Z (-1).~.(x. x~ ..... x.) x ~"-~., /*--0 we find for the coefficients % in (2.2), e2/,= ( -- ~)btto'/,, c2/,+ 1 =(- J)/*so'/~, /.g =0, ~ .... , n. Consequently, using Lemma 2.1, 2n+l Y le,,I--(Isl +ltl) Y I'~m(X. X, ..... X.)I =<(Isl +ltl)/-/(a +Ix.l), p=O m=O ~1 with equality as stated. (2.3) Lemma 2.3. Given 2n real or complex numbers xl, x~ ..... x2, such that x.+, = s v = t, 2 ..... n, (2.4) = -- 2it and/or all v either Re x~ > 0, or Re x~ <= O, let P2n (x) -Hv=l (x - xv) and 2n+l (s +tx)p~(x) = Z c~x ~"-~+1. (2.5) /*=0 Then n 2n+1 n [[st-ltl[Hlt+x~l*<= Z [e.[___(I,[ +ltl)H[! ~x.[*, (2.6) ~=i p=0 v=l where the plus sign holds i/all Re x, > O, and the minus sign i/all Re x, ~ 0. Proo/. We first observe that in 2n p~.(x) = X (- O%,(Xl, x~ ..... x~) x ~-" p=0 we have In fact, av=>0 ifall Rex,>0, (--Qvav>0 ifall Rex,=<0. (2.7) 1r 1r p,n (x) =H [(x - x,) (x - #,)] = H [ xz - (2 Re x,) x + [x,]'], v=l V=I and multiplying out the product on the right yields coefficients which alternate in sign, if all Re x, ~ 0, and are nonnegative, if all Re x, = 0. Consequently, / r 2, p~n(--t) [t +x.[* if all Re x,=>0. Z I.~(x,, x~ ..... x~.)l = (2.8) ~,=o [p2.(t) = =]~1 11 -- x~l* ifall Re x, <=0.
+Norm Estimates for Inverses of Vandermonde Matrices 339 For the coefficients cv in (2.5) we have c.=(--l)"(ta~--sa._~), /*=0, l ..... 2n+t, where a-1 =a,.+~ =0. Therefore, 2n 2n+l 2n+l 2n Ilsl-Itll Y I~,,I ~ Y Ic.I-- X It~-s~.-,I _-__(Isl +1~1) X I~.1, /~=0 /*=0 /~=0 /*=0 from which (2.6) follows by virtue of (2.8). 3. Inversion of the Vandermonde Matrix We denote the Vandermonde matrix of order n by ' 1 | ! I n--I n--i n--lt Lxl x2 ...x, _1 where xx, x~ ..... x~ are distinct complex numbers and n > t. Its inverse can be obtained by solving the system of linear algebraic equations ul + us +.-. + u, =vl x~u~ + x, m +... + x~ u,=v~ (3.2)  9 ..+x, u~=v,. Introducing the elementary Lagrange interpolation polynomials /~/ a x n-~ l~(x) = x,-xx-~x-xa ----a~nxn--l + ",n--~ +... +a~v v=l, 2 ..... n, (3.3) /*=i p4:v which satisfy l~(x,) = {10 if v=/t if v4=t*, it is evident that by multiplying the/,-th Eq. (3-2) by a,v,/, = t, 2 ..... n, and adding, we get u~,=~avuvt,, v---~l, 2, ..., n. Consequently, [all al, ... aa,] La,,1 an2 ... a~] 4. Norm Inequalities for V; t We consider throughout the oo-norm of V~ -1, IIv.-~ll~o =max ~, la..I. l<v~--n /,*=I 23*
+340 W. Gautschi Theorem 4.1. ][V-l(x~, x, ..... x,)[Ioo is a symmetric /unction in the variables Xl, x2, ..., x n. Proo/. Interchanging two variables amounts to interchanging two columns of Vn, which in turn has the effect of interchanging two rows of V~ -1. The value of ]]V,-X[[| remains the same. Theorem 4.2. Let to 4=0 be arbitrary complex, and v, (o,) =~v(o, xl, ox~ ..... ~, x~). The. IIV;' (o)lL aepe~as only on 1~1 a~a is smctly decreasing as a/unction o~ I~l- Proo/. Let K =K(I), IT, -1 = [a,,]. Since V.(o~) =D(co)V~, D(r =diag(l, o) ..... 60"-1), we have V. -x (r =Vn-xn -1 (~o), i.e., ~-~(o)=[ a,. 1 [ o~v-1 ]' v,l~=t,2 ..... n. It is clear, therefore, that the norm of V~ -1 (to) depends only on ]to]. Furthermore, if 1~11 <1~,[, we have --max~ I~.I _~ I~..I 2~ I....I _<maxF, '~..I I~:l"-:-  9 .=~1-~, ~:~ =[Iv"-:(~ < where strict inequality holds because of a,.. =H (x,. - o I~4=~o This proves Theorem 4.2. In [2] we have shown that IlV.-~ll~< max /-/ t +]xu] (4.t) x~-,~-,,2~ Iz,-x.l' where equality holds if (but not only if) all x, are on the same ray through the origin,  9 ,--I~,1 e'*, , =t, 2 ..... n. (4.2) In view of Theorem 4.2 we may assume $ =0 in (4.2), i.e., x,>O, v=l, 2 ..... n, in which case the equality in (4.t) can be given the alternative form iiV-~ll~ = Ip.(-~)l min {(! +x,)IP;(*,)I} (x,>0), (4A') x<~<n where p,(x) -- (x --x~). (4.3) We now wish to obtain a result analogous to (4.t') when the points x, are located symmetrically with respect to the origin on a straight line through the
+Norm Estimates for Inverses of Vandermonde Matrices 341 origin. In view of Theorem 4.2 we may assume the straight line to coincide with the real axis. Theorem 4.3. Let x, be distinct real numbers such that x, + x,+l_ , = 0, v = t, 2 ..... n. (4.4) I/V~ = V(x 1, x, ..... x,), we then have [! max {(t + !) v./i l+x~ } 2 . *. I"; - d l i! n is even, IV.-1L = (4.5) /max/~.(t + x.//-/i t + ~'~ ,--~/. i/.isoaa, I " t ~4, ix,-%lJ where v and p vary over all integers !or which x, >= 0 and x~, > O, respectively, and where e, = ~ when x, > O, and e, = 1 when x, = O. Alternatively, lie_, L = Ip.(01 t +x,* I}' (4.5') min, ( t~--~v Ipg(x,) where p~ ( x) is the polynomial in (4-3), and the minimum is taken over all nonnegative abscissas. Proo/. For the sake of definiteness we assume x,>0 for v=t, 2 ..... [n/2], x(,+l)/~=O if n is odd. (4.6) Let first n be even. The Lagrange polynomials (3.3) then are z,(x)- "+'./~''-~ l~§ v=1,2 ..... --~. /~4:v It suffices in (3.4) to evaluate the sums ~.~=~]a,,] for t _~, <n/2, the others (for v > n/2) having the same values. An application of (3.3), (3.4) and Lemma 2.2, in which n is to be replaced by (n/2) --t, and s and t by 1 t $ -- .12 ' ~ -- hi2 " 2 H (~:- d) 2 ~,, H (,~*.- ~,) la:4:t, ~eet' then gives the first result in (4.5). The second, for n odd, is obtained similarly, noting that l, (~) , , l,,+~_.(~) =l.( - x), ~, = t, 2 .... -- X v 2X~ "~'j['l~l X v -- X~ ~ 2 ' t, eev (.--1)12 Xi -- X~ l(..)/~(x)= H (-d)" The alternative form (4.5') follows readily from (4.5) by observing that n/2 p,(x) =H(x~-x~) if n is even, p=1
+342 W. Gautschi and (n - 1)/2 p, (x) = x H ( x2 - x~) if n is odd. Corollary. I/n is even and x, are symmetric points as in (4.4), then (4.t) holds with strict inequality. Proo/. The bound in (4A), again assuming (4.6), is I ' ./2 (1 + x/*)~ max ,(t+~)/__/1 [x--~ x~ j, z l<v_.gn/*' [~ /*4:v which is larger than the top expression in (4.5) because of (t +x/*)~> 1 +x~. We next consider norm estimates for V, -1 in the case of pairwise conjugate complex abscissas all located in the same half plane. Theorem 4.4. Let x, be distinct complex numbers such that xn+l_ ,=s /or v=t, 2 ..... n and x(,+l)/a=O i/ n is odd, (4.7) and such that/or all v either Re x, >= 0 or Re x, g 0. //V, = V(xl, x~ ..... xn) , we then have/or n even, max Ill -Ix, i[ ]~ ]i • ~[[V,-I[[~_--< max /,'+{51 .H l,~x/*[, } (4.8) l~,~-~t I",-x,I/*=~ Ix,-~/*l I~,-~/*l ' ,u4=~ and ]or n odd, { ("+1)/' ]l 4x/*[' } max      ,lt--lx,     II // ~.~(.+~)z, I x, - x/*l Ix. - &l /*=1 p4=~' (,+1)/1 I~ :t: xu[ ~ ], (4.9) ___llV.-,ll.___ max - 1~._~(.+,)/. t Ix,-=/*l I',-~/*1 [ ' p=l=~, where plus signs hold i/ Re x, =>0, minus signs i/ Re x, =<0, and where in (4.9) [x,[ /or t <_v<_(n--t)/2. (4.10) g(n+l)/2~l, e v -- ~ -- -- Alternatively, IP.(=F~)I IP.(:F~)I . f 1t -4-x,p -- ' m~n~~[p;(x,)[} ==llV"-'L <- min 1~[l'1' +x.l' p,,(x.)[}' (4.tt) where p,(x) is the polynomial in (4.3), and the minimum is taken over all v with t <--< v <= n/2 when n is even, and over all v with t <--v <--(n + t)/2 when n is odd. We omit the proof of Theorem 4.4, since it is analogous to the proof of Theo- rem 4.3. Lemma 2.3 now plays the role of Lemma 2.2.
+Norm Estimates for Inverses of Vandermonde Matrices 343 5. Scaling of the Abscissas Let V.(co) = V(to xl, oJ x~ ..... to x.), to > 0. How does the norm of V~-l(to) compare with the norm of V,-X(l)? We shall answer this question first for positive abscissas x,, and then for symmetric real abscissas. Theorem 5.1. Let x, be distinct positive numbers. Then ]or to > O, o,+1 p.(-l) < Hv;'o)llo~ where p,(x) is the polynomial in (4.3). Proo[. From (4A') we obtain <(to+~) ~d~fi , IIV.-' (to)IL = min ~(!+xv) lP;(x,)]} x<,~n (\ r pn(--t) min {&(x.)(, +x.)lp;(..) I} ' where ! --+t g~,(t) - ~' l+t ' The theorem follows by observing (4.1') and I r 0<t< oo.  9 O~t< oo. Theorem 5.2. Let n be even and x, be distinct real numbers such that x,+x,+x_,=0 tor v=t,2 ..... n. Then,/or to > O, 2(1~-~)~ ItV#' (o,) Lo o,+~ o,+~ p.(i) < IIV;*O)ll| < 2(1~-,) p.(i) ' where p, (x) is the polynomial in (4.3). Proo]. From (4.5') we obtain llV.-'-(to)ll~o= I p.(~)t" where now  9 r . .t+x, ~ , l~'j mm ~g~ t*j =-r-- ] p. (*,) 1 -- +t ~ ~* i +t g~ l+tz !+t' O_<t<oo. OJ (s.O (5.2)
+344 W. Gautschi We need to show that 2(~ - !) ~ + ! -~i <go~(t)< 2(l~--l)co' 0=<t<~. We first note the identities , (r , If 0 = t =< t, the lower bound in (5.3) follows from 1 co~ + t~ 1 I + r s t ~ 1 t + co~ t ~ go (t) > -- - -- 1 co 1 +cot co + 1 t +cot ' -- + t (5.3) (5.4) since (1 +y2)1(1 +y) for y > 0 assumes the minimum value 2 (1/2 -- t) at y = V ~ - t. if t > 1, we use the first identity in (5.4) to obtain again i 2(1/~-1) _ 2(~-1) go(O > to 1 co+l --+t co Combining the left inequality in (L3) just established with the second identity in (5.4) gives the right inequality, and thus proves (5.3). 6. Examples Norm estimates for V~ -1 imply estimates for the condition number of V,. These in turn are of interest, e.g., in the study of the condition of polynomial interpolation [3]. In the examples which follow we derive asymptotic estimates for the condition number, assuming typical configurations of interpolation points. Example 6.1 (equidistant points), xv=t 2(v-l) n-I , v=l,2 .... ,n. We assume first n even. From (4.5) we find after some computation that 0s n V;1L - rain ~,' l <t,~_n/2 where r(~_ +~__~_) l +i(n-O) (:- Since ~, is increasing, min :% = ~tx = [(n -- t)2 + 1] (2-- t)[', and since [/'(t +iy)[~ = liy/'(iy) l, = zty/sinh (zty) for any real y, we obtain s ~mh (~(---,)) 1 r(~ +,(~-,)) r (n even).
+Norm Estimates for Inverses of Vandermonde Matrices 345 For n odd, we find similarly, sinh (r ~[n +1 . n--t~2 V;q        =        7:1 z~(_~_t )! "~ .~ , -t-~--~-} (n odd). (6.1o) Since condoo Vn = I1= =-I1 I1 , (6.2) using Stirling's formula for the gamma function, and straightforward, but tedious, manipulations, we find from (6.t) that 1 _n n 1 condoo V.,~ ~ e ~ e"(u +-~-'n*), n-+~. (6.3) Some numerical values x are listed in Table t. Table 1. Condition of polynomial interpolation at equidistant points on ~- 1, 1 ] n condo0 V n (6.3) 5 5.0000 (1) 4.t668 (I) t0 1.3625 (4) t.1963 (4) 20 1.0535 (9) 9.8614 (8) 40 6.9269 (t8) 6.7007 (18) 80 3.1456 (38) 3.0937 (38) 2~-- 1 Example 6.2 (Chebyshev points), x~ =cos 0~, 0, = 2n -~' v =1, 2 ..... n. The abscissas x, are the zeros of the Chebyshev polynomial of the first kind, T,~(x). Hence, by (4.5'), since [T'(x,) I =n/sin 0,, we find that where [ T~ (i)[ I1  -  11    - .. mini(0,) ' ! +cos ~ 0 1(0) = (t +cos 0) sin 0' o<0<~/2. (6.4) ! (0o) =< rain [ (0,,.) < ! (0 .... ) I The integers in parentheses indicate powers of 10 by which the preceding numbers are to be multiplied. An elementary calculation shows that ] (0) has a unique minimum on [0, :g/2], which is assumed at 0 = 00, where cosOo=2__/~ ' /(0o)__ 6--2V3 __2.3-3/4. 3V~ --6 Since the angles 0. ----- 0., ,, are equidistributed on the arc 0 ~ 0--< z~/2, there exists a sequence of integers ~. with 0 < ~. <n such that Or., ,,-+0o as n-+ co. From
+346 W. Gautschi it then follows that min/(0,,,)-->/(0o) as n -+oo. v Consequently, by (6.4), 33/4 On the other hand [4, p. 194], I Z,(r ~(l + lf2:, so that, in view of (6.2), 3314 cond| V~ ,~ ~- (l + ]/2)", Some numerical values are listed in Table 2. /r ---> oo. T/; -& oo n -+ oo. Table 2. Condition of polynomial interpolation at Chebyshev points n condoo V n (6.5) 5 4.1000 (t) 4.6737 (t) tO 3.7495 (3) 3.8330 (3) 20 2.5727 (7) 2.578t (7) 40 1.1663 (15) 1.1663 (t5) 80 2.3859 (30) 2.3869 (30) (6.5) Example 6.3. x,=t --e -i'~ v=t, 2 ..... n (even), h > O, 0<o,q<oJ~<... <o~n/~, o~,+nl~ = --o~ for v=t, 2, ..., n/2. The interpolation problem corresponding to these complex abscissas arises in the construction of trigonometric multistep methods for ordinary differential equations with almost periodic solutions El ]. A short calculation, based on (4A t), gives the upper bound IIv:IL (6.6) rain 2sin hsin'Jo.--o.lh]} x~,<n/t I + 2 sin (89 co, h) (co, h) t~=*[ 2 cou) ,~ and a similar lower bound in which t +2 sin ({o~,h) in the denominator of (6.6) is replaced by t --2 sin (~o,h). For n fixed, and h -~0, we find t (h-+O). (6.7) n2 } IIV"-I]I~176 2hn-1 min.~co.~l~ co2co~] l,~t,~.nll [, - i~1 - t.,. The estimate (6.7) can also be obtained by using the approximations x~,-- ic% h, rotating the abscissas through an angle of ~[2, and then applying Theorem 4.3 with the simplifying approximation (1 +o~,h)l-I (1 +oJ~h ~) --" t.
+Norm Estimates for Inverses of Vandermonde Matrices 347 Example 6.4 (Roots of unity), x, =e 2~i'/", v-----l, 2, ..., n. Although none of the previous estimates apply, we can obtain the inverse of the Vandermonde matrix directly by observing that the Lagrange interpolation polynomials are t,(x)=~- ~.~/ , ~=1,2 ..... n. Consequently, by (3.3), (%4), IIv/*u| =t, cond  V  ---n.  Actually, the roots of unity are an optimal point configuration with regard to the spectral condition of Vandermonde matrices [3 ]. In fact, since V ff V~ = n  9 I,, we have cond2V ~ = t. References 1. Bettis, D. G. : Numerical integration of products of Fourier and ordinary poly- nomials. Numer. Math. 14, 421-434 (1970) 2. Gautschi, W. : On inverses of Vandermonde and confluent Vandermonde matrices. Numer. Math. 4, 117-123 (1962) 3. Singhal, K., Vlach, J. : Accuracy and speed of real and complex interpolation. Computing 11, 147-158 (1973) 4. Szeg6, G. : Orthogonal polynomials, 2nd rev. ed., Amer. Math. Soc. Colloq. Publ., Vol. 23, Amer. Math. Soc., Providence, R.I., 1959
+POSITIVE  DEFINITE  MATRICES  AND  THE  S-DIVERGENCESUVRIT SRA(Communicated by )Abstract.Hermitian positive definite (hpd) matrices form a self-dual convexcone whose interior is a Riemannian manifold of nonpositive curvature.  Themanifold view is endowed with a geodesically convex distance function but theconvex view is not.  Drawing motivation from convex optimization, we introducetheS-Divergence, a “distance-like” function on the convex cone of hpd matrices.We study basic properties of the S-divergence that connect it intimately withthe Riemannian distance.  In particular, we show that (i) its square-root is adistance; and that (ii) it exhibits several (nonpositive-curvature-like) propertiesakin to the Riemannian distance.1.IntroductionHermitian positive definite (hpd) matrices form a manifold of nonpositive curva-ture [11, Ch.10], [6, Ch.6], whose closure is a self-dual convex cone.  The manifold isimportant in various applications [21], while the conic view is fundamental to convexoptimization [20, 10] and nonlinear Perron-Frobenius theory [18], for instance.The manifold view comes with a natural distance function, while the conic viewdoes not.  Drawing motivation from convex optimization we introduce on the hpdcone a distance-like function:  theS-Divergence.  We prove several results connectingthe S-Divergence to the Riemannian distance.  Our main result is that the square-root of this divergence is actually a distance; our remaining results explore geometricand analytic properties common to the S-Divergence and the Riemannian distance.1.1.Setup.LetHndenote the set ofn×nHermitian matrices.  A matrixA?Hnis calledpositive definiteif(1.1)?x, Ax?>0    for allx6= 0,also written asA >0.The set of positive definite (henceforthpositive) matrices inHnis denoted byPn.  WesayAispositive semidefiniteif?x, Ax??0 for allxand writeA?0.  The inequalityA?BmeansA?B?0.  TheFrobenius normof a matrixXis?X?F:=?tr(X?X),while?X?denotes the operator norm.  Letfbe an analytic function onC, and letAhave the eigendecompositionA=U?U?with unitaryU, thenf(A) =Uf(?)U?withf(?) equal to the diagonal matrix Diag[f(?1),...,f(?n)].The setPnis a well-studied differentiable Riemannian manifold, with the Rie-mannian metric given by the differential formds=?A?1/2dAA?1/2?F.  This metric2010Mathematics Subject Classification.Primary:  15A45; 52A99; 47B65; 65F60.This work was done when author was with the MPI for Intelligent Systems, T ?ubingen, Germany.A small fraction ofthis  workwas presented at theNeural  Information  Processing  Systems(NIPS) Conference 2012—see [23].c©XXXX American Mathematical Society1
+2SUVRIT SRAinduces theRiemannian distance(see e.g., [6, Ch. 6]):(1.2)?R(X,Y) :=?log(Y?1/2XY?1/2)?FforX,Y >0.The focus of this paper is on a complement to(1.2), namely, theS-Divergence:1(1.3)?2S(X,Y) := log det(X+Y2)?12log det(XY)    forX,Y >0.This divergence was proposed as a numerical alternative to the Riemannian distance?Rin [14]—there, it was used in an application to image-search, primarily for itsempirical benefits.  This initial empirical success of S-Divergence motivated us toinvestigate?Smore closely in this paper.Contributions.The present paper goes substantially beyond our initial conferenceversion [23].  The main differences are:  (i) Theorems 4.1,  4.5,  4.6,  4.7,  and 4.9,which establish several new geometric and analytic similarities between?Sand?R; (ii) the joint geodesic convexity of?2S(Prop. 4.3, Theorem 4.4); and (iii) new“conic”  contraction  results  for?Sand?Rthat  uncover  properties  akin  to  thoseexhibited Hilbert’s projective metric and Thompson’s part metric [18] (Prop. 4.11,Corollary 4.12, Theorem 4.14, Theorem 4.15, and Corollary 4.16).Related work.While our paper was under preparation (in 2011), we became awareof a concurrent paper of Chebbi and Moakher (CM) [12] who considered a singleparameter family of divergences that generalize(1.3).  Our work differs from CM inseveral key aspects.  (1) CM prove?Sto be a distance for commuting matrices only.We note in passing that the commuting case is essentially equivalent to the scalarcase.  The noncommuting case is much harder, and was also conjectured by [12].  Weprove the noncommuting case too, and note that our consideration of it was agnosticof CM [12].  (2) We establish several theorems that uncover geometric and analyticsimilarities between?2Sand?R.  (3) A question closely related to?Sbeing a distanceis whether the matrix [det(Xi+Xj)??]mi,j=1is positive semidefinite for arbitrarymatricesX1,...,Xm?Pn,  every  integerm?1,  and  every  scalar??0.   CMconsidered special cases of this question.  We provide a complete characterization of?necessary and sufficient for the above matrix to be semidefinite.2.The S-DivergenceConsider  a  differentiable  strictly  convex  functionf:R?R;  then,f(x)?f(y) +f?(y)(x?y), with equality if and only ifx=y.  The difference between thetwo sides of this inequality is called aBregman Divergence:2(2.1)Df(x,y) :=f(x)?f(y)?f?(y)(x?y).The scalar divergence(2.1)readily extends to Hermitian matrices.  Specifically, iffis differentiable and strictly convex onR, andX,Y?Hnare arbitrary.  Then, thematrix Bregman Divergenceis defined as(2.2)Df(X,Y) := trf(X)?trf(Y)?tr(f?(Y)(X?Y)).It can be verified thatDfis nonnegative, strictly convex inX, and zero if and onlyifX=Y.  It is typically asymmetric.  For example, iff(x) =12x2, then forX?Hn,trf(X) =12tr(X2) and(2.2)becomes the squaredFrobenius norm12?X?Y?2F.  If1It is a divergence because although nonnegative, definite, and symmetric, it isnota metric.2Over vectors, these divergences have been well-studied; see e.g., [2].  Although not distances,they often behave like squared distances, in a sense that can be made precise for certainf[13].
+POSITIVE  DEFINITE  MATRICES  AND  THE  S-DIVERGENCE3f(x) =xlogx?xon (0,?), thentrf(X) =tr(XlogX?X) and(2.2)yields the(unnormalized)von Neumann Divergenceof quantum information theory.The asymmetry of Bregman divergences can be sometimes undesirable.  This hasled researchers to consider symmetric divergences, among which the most popularis the “Jensen-Shannon / Bregman” divergence(2.3)Sf(X,Y) :=12(Df(X,X+Y2) +Df(X+Y2,Y)).Divergence (2.3) may also be written in the more revealing form:Sf(X,Y)=12(trf(X) + trf(Y))?trf(X+Y2).(2.4)The S-Divergence(1.3)can be obtained from(2.4)by settingf(x) =?logx, sothatf(X) =?log det(X), the barrier function for the positive definite cone [20].The S-Divergence may be also be viewed as the Jensen-Bregman divergence betweentwo multivariate gaussians [15], or as the Bhattacharyya distance between them [8].The following basic properties ofSmay be easily verified.Proposition  2.1.Let?(X)be  the  vector  of  eigenvalues  ofX,  andEig(X)thediagonal matrix with?(X)on its diagonal.  LetA,B,C?Pn.  Then,   (i)?S(I,A) =?S(I,Eig(A)); (ii)?S(A,B) =?S(P?AP,P?BP), whereP?GLn(C); (iii)?S(A,B) =?S(A?1,B?1); (iv)?2S(A?B,A?C) =n?2S(B,C).3.The?SdistanceIn this section we present our main result:the square-root?Sof the S-Divergence isactually a distance.  Previous authors [12,14] conjectured this result; both appealedto classical ideas from harmonic analysis [3, Ch. 3] to establish the commutativecase.  But the noncommutative case requires a different approach, as we show below.Theorem 3.1.Let?Sbe defined by(1.3).  Then,?Sis a metric onPn.The proof of Theorem 3.1 depends on several results, some of which we prove below.Definition 3.2([3, Def. 1.1]).LetXbe a nonempty set.  A function?:X×X ?Ris said to benegative definiteif for allx,y?X,?(x,y) =?(y,x), and the inequality?ni,j=1cicj?(xi,xj)?0,holds for all integersn?2, and subsets{xi}ni=1?X,{ci}ni=1?Rwith?ni=1ci= 0.Theorem 3.3([3,  Prop. 3.2,  Ch. 3]).Let?:X ×X ?Rbe  negative  definite.There is a Hilbert spaceH?RXand a mappingx7??(x)fromX ?Hsuch that(3.1)??(x)??(y)?2H=12(?(x,x) +?(y,y))??(x,y).Moreover, negative definiteness of?is necessary for such a mapping to exist.Theorem 3.3 helps prove the triangle inequality for the scalar case.3Lemma 3.4.Let?sbe the scalar version of?S, i.e.,?s(x,y) :=?log[(x+y)/(2?xy)],  x,y >0.Then,?sis a metric on(0,?).3The idea of invoking Schoenberg’s theorem (Theorem 3.3) for for establishing the commutativecase (which actually is essentially just the scalar case of Lemma 3.4) was also used by [12]; wearrived at it independently following the classic route of harmonic analysis [3, Ch. 3].
+4SUVRIT SRAProof.To verify that?(x,y) =log((x+y)/2) is negative definite, by [3, Thm. 2.2,Ch. 3] we may equivalently show thate???(x,y)=(x+y2)??is positive definite forany? >0 andx,y >0.  This in turn follows from the inner-product representation(3.2)(x+y)??=1?(?)??0e?t(x+y)t??1dt=?fx, fy?,wherefx(t) =e?txt??12?L2([0,?)).Corollary 3.5.Letx,y,z?Rn++; and letp?1.  Then,(3.3)(?i?ps(xi,yi))1/p?(?i?ps(xi,zi))1/p+(?i?ps(yi,zi))1/p.Corollary 3.6.LetX,Y,Z >0be diagonal matrices.  Then,(3.4)?S(X,Y)??S(X,Z) +?S(Y,Z)Proof.For diagonalX,Y,?2S(X,Y) =?i?2s(Xii,Yii); now use Corollary 3.5.Next, we recall an important determinantal inequality for positive matrices.Theorem 3.7([5, VI.7]).LetA,B >0.  Let??(X)denote the vector of eigenvaluesofXarranged in decreasing order; define??(X)likewise.  Then,(3.5)?ni=1(??i(A) +??i(B))?det(A+B)??ni=1(??i(A) +??i(B)).Corollary 3.8.LetA,B >0.  LetEig?(X)denote the diagonal matrix with??(X)as its diagonal; defineEig?(X)likewise.  Then,?S(Eig?(A),Eig?(B))??S(A,B)??S(Eig?(A),Eig?(B)).(3.6)Proof.In (3.5), dividing by 2n?det(A) det(B) we obtain?ni=1(??i(A2) +??i(B2))?det(A) det(B)?det(A+B2)?det(A) det(B)??ni=1(??i(A2) +??i(B2))?det(A) det(B).Since determinants are invariant to permutation of eigenvalues, we can rearrangethe leftmost and rightmost terms so that upon taking logarithms,(3.6)follows.The final result we need is a classic lemma from linear algebra.Lemma 3.9.IfA >0, andBis Hermitian, then there is a matrixPsuch that(3.7)P?AP=I,andP?BP=D,  where Dis diagonal.Accoutered with the above results, we are ready to prove Theorem 3.1.Proof.(Theorem 3.1).   We need to show that?Sis symmetric, nonnegative, definite,and that it satisfies the triangle inequality.  Symmetry and nonnegativity are obvious,while definiteness follows from strict convexity of?log det(X), the seed function thatgenerates theS-divergence.  The only difficulty is posed by the triangle inequality.LetX,Y,Z >0 be arbitrary.  From Lemma 3.9 we know that there is a matrixPsuch thatP?XP=IandP?Y P=D.  SinceZ >0 is arbitrary, and congru-ence preserves positive definiteness, we may write justZinstead ofP?ZP.  Also,since?S(P?XP,P?Y P) =?S(X,Y) (see Prop. 2.1), proving the triangle inequalityreduces to showing that(3.8)?S(I,D)??S(I,Z) +?S(D,Z).
+POSITIVE  DEFINITE  MATRICES  AND  THE  S-DIVERGENCE5Consider now the diagonal matricesD?and Eig?(Z).  Corollary 3.6 asserts(3.9)?S(I,D?)??S(I,Eig?(Z)) +?S(D?,Eig?(Z)).Prop. 2.1(i) implies that?S(I,D) =?S(I,D?) and?S(I,Z) =?S(I,Eig?(Z)), whileCorollary 3.8 shows that?S(D?,Eig?(Z))??S(D,Z).  Combining these inequalities,we immediately obtain (3.8).We now turn our attention to a related connection that enjoys importance insome applications:  kernel functions arising from?S.3.1.Hilbert space embedding.Since?Sis a metric, which for scalars embedsisometrically into Hilbert space (Lemma 3.4), it is natural to ask whether?S(X,Y)also admits such an embedding.  But as we already noted, such an embedding doesnot exist.  Theorem 3.3 implies that a Hilbert space embedding exists if and only if?2S(X,Y) is a negative definite kernel; equivalently, iff the map (cf.Lemma 3.4)e???2S(X,Y)=det(X)?det(Y)?det((X+Y)/2)?,is a positive definite kernel for? >0.  It suffices to check whether the matrix(3.10)H?= [hij] =[det(Xi+Xj)??],1?i,j?m,is positive definite for everym?1 and arbitrary positive matricesX1,...,Xm?Pn.Unfortunately, a quick numerical experiment reveals thatH?can be indefinite.This leads us to the weaker question:for what choices of?isH??0?Theorem 3.10 answers this question forH?formed from symmetric real positivedefinite matrices.Theorem 3.10.LetX1,...,Xmbe  real  symmetric  matrices  inPn.  Them×mmatrixH?defined by(3.10)is positive definite, if and only if?satisfies(3.11)??{j2:j?N,and1?j?(n?1)}?{?:??R,and? >12(n?1)}.Proof.Please refer to the longer version of this paper [22].Theorem 3.10 shows thate???2Sis not always a kernel,  while for commutingmatricese???2Sis always a positive definite kernel.  This raises the following:Open problem.Determine necessary and sufficient conditions on a setX ?Pn, so thate???2S(X,Y)is a kernel function onX ×Xfor all? >0.4.Geometric and analytic similarities with?R4.1.Geometric mean.We begin by studying an object that connects?Rand?2Smost intimately:  the matrix geometric mean.  For positive matricesAandB, thematrix geometric mean(MGM) is denoted byA]B, and is given by the formula(4.1)A]B:=A1/2(A?1/2BA?1/2)1/2A1/2.The MGM(4.1)has a host of attractive properties—see for instance the classicpaper [1].  The following variational characterization is important [7]:A]B= argminX>0?2R(A,X) +?2R(B,X),and?R(A,A]B) =?R(B,A]B).(4.2)Surprisingly, the MGM enjoys a similar characterization even under?2S.
+6SUVRIT SRATheorem 4.1.LetA,B >0.  Then,(4.3)A]B= argminX>0[h(X) :=?2S(X,A) +?2S(X,B)].Moreover,A]Bis equidistant fromAandB, i.e.,?S(A,A]B) =?S(B,A]B).Proof.IfA=B,  then clearlyX=Aminimizesh(X).  Assume therefore,  thatA6=B.  Ignoring the constraintX >0 for the moment, we see that any stationarypoint ofh(X) must satisfy?h(X) = 0.  This condition translates into?h(X) =(X+A2)?112+(X+B2)?112?X?1= 0  =?B=XA?1X.The last equation is a Riccati equation whoseuniquepositive solution isX=A]B[6,Prop 1.2.13].  We now show that the stationary pointA]Bis actually a local minimum.Consider the Hessian2?2h(X) =X?1?X?1?[(X+A)?1?(X+A)?1+ (X+B)?1?(X+B)?1].WritingP= (X+A)?1,Q= (X+B)?1, and using?h(X) = 0 we obtain2?2h(X) = (Q?P) + (P?Q)>0.Thus,X=A]Bis astrictlocal minimum ofh(X).  This local minimum is theglobal minimum as?h(X) = 0 has a unique positive solution andhgoes to +?atthe boundary.  Equidistance follows easily fromA]B=B]Aand Prop. 2.1.4.2.Geodesic convexity.The above derivation concludes optimality of the MGMfrom first principles.  In this section, we show that?2Sisactually jointly geodesicallyconvex, hereafter ‘g-convex’, (see (4.5)), a property also satisfied by?R.Before proving Theorem 4.4, we recall two results; the first implies the second4.Theorem 4.2([16]).The GM ofA,B?Pnis given by the variational formulaA]B= max{X?Hn|[A  XX  B]?0}.Proposition 4.3(Joint-concavity (see e.g. [16])).LetA,B,C,D >0.  Then,(4.4)(A]B) + (C]D)?(A+C)](B+D).Theorem 4.4.The function?2S(X,Y)is jointly g-convex forX,Y >0.Proof.Since?2Sis continuous, it suffices to show that forX1,X2,Y1,Y2>0,(4.5)?2S(X1]X2,Y1]Y2)?12?2S(X1,Y1) +12?2S(X2,Y2).From Prop. 4.3 it follows thatX1]X2+Y1]Y2?(X1+Y1)](X2+Y2).  Sincelog detis monotonic and determinants are multiplicative, it then follows thatlog det(X1]X2+Y1]Y22)?log det((X1+Y1)](X2+Y2)2),which when combined with the identity?12log det((X1]X2)(Y1]Y2))=?14log det(X1Y1)?14log det(X2Y2)yields inequality (4.5), establishing joint g-convexity.4.3.Basic contraction results.In this section we show that?Sand?Rshareseveral contraction properties.  We state our results either in terms of?2Sor of?S,depending on whichever appears more elegant.4It  is  a  minor  curiosity  to  note  that  the  mixed-mean  inequality  for  matrix  geometric  andarithmetic means proved in [19, Thm. 2] is a special case of Prop. 4.3.
+POSITIVE  DEFINITE  MATRICES  AND  THE  S-DIVERGENCE74.3.1.Power-contraction.The metric?Rsatisfies (e.g., [6, Exercise 6.5.4])(4.6)?R(At,Bt)?t?R(A,B),forA,B >0 andt?[0,1].Theorem 4.5 shows that S-Divergence satisfies the same relation.Theorem 4.5.LetA,B >0, and lett?[0,1].  Then,(4.7)?2S(At,Bt)?t?2S(A,B).Moreover, ift?1, then the inequality gets reversed.Proof.Recall  that  fort?[0,1],  the  mapX7?Xtis  operator  concave.   Thus,12(At+Bt)?(A+B2)t; by monotonicity of the determinant it then follows that?2S(At,Bt) = logdet(12(At+Bt))det(AtBt)1/2?logdet(12(A+B))tdet(AB)t/2=t?2S(A,B).The reverse inequality fort?1, follows by considering?2S(A1/t,B1/t).4.3.2.Contraction on geodesics.The curve(4.8)?(t) :=A1/2(A?1/2BA?1/2)tA1/2,fort?[0,1],parameterizes theuniquegeodesic between the positive matricesAandBon themanifold (Pn,?R) [6, Thm. 6.1.6].  On this curve?Rsatisfies?R(A,?(t)) =t?R(A,B),  t?[0,1].The S-Divergence satisfies a similar, albeit slightly weaker result.Theorem 4.6.LetA,B >0, and?(t)be defined by(4.8).  Then,(4.9)?2S(A,?(t))?t?2S(A,B),0?t?1.Proof.The proof follows upon observing that?2S(A,?(t)) =?2S(I,(A?1/2BA?1/2)t)(4.7)?t?2S(I,A?1/2BA?1/2) =t?2S(A,B).4.3.3.A power-monotonicity property.We show below that on matrix powers,?2Sand?Rexhibit a similar monotonicity property reminiscent of a power-means inequality.Theorem 4.7.LetA,B >0.  Let scalarstandusatisfy1?t?u <?.  Then,t?1?R(At,Bt)?u?1?R(Au,Bu)(4.10)t?1?2S(At,Bt)?u?1?2S(Au,Bu).(4.11)To our knowledge, inequality(4.10)is also new.  Before proving Theorem 4.7we first state a “power-means” determinantal inequality (which follows from themonotonicity theorem of [4] on power means; see [22] for an independent proof).Proposition 4.8.LetA,B >0; let scalarst,usatisfy1?t?u <?.  Then,(4.12)det1/t(At+Bt2)?det1/u(Au+Bu2).Proof(Theorem 4.7).  (i):  Note that?R(X,Y) =?logE?(XY?1)?F.  We must show1t?logE?(AtB?t)?F?1u?logE?(AuB?u)?F.Equivalently, for vectors of eigenvalues we may prove(4.13)?log?1/t(AtB?t)?2??log?1/u(AuB?u)?2.
+8SUVRIT SRAThe log-majorization relation stated in [5, Theorem IX.2.9] sayslog?1/t(AtB?t)?log?1/u(AuB?u),to which we apply the mapx7??x?2immediately obtaining(4.13).  Notice, thatwe have in fact proved the more general result1t?logE?(AtB?t)???1u?logE?(AuB?u)??,where ? is a symmetric gauge function (a permutation invariant absolute norm).(ii):  To prove (4.11) we must show that1tlog det((At+Bt)/2)?t2log det(AtBt)?1ulog det((Au+Bu)/2)?u2log det(AuBu).But this inequality is immediate from Prop. 4.8 and the monotonicity of log.4.3.4.Contraction under translation.The last basic contraction result that we proveis an analogue of the following shrinkage property [9, Prop. 1.6]:(4.14)?R(A+X,A+Y)???+??R(X,Y),forA?0,andX,Y >0,where?=max{?X?,?Y?}and?=?min(A).  This result plays a crucial role inderiving contractive maps for certain nonlinear matrix equations [17].Theorem 4.9.LetX,Y >0, andA?0, then the function(4.15)g(A) :=?2S(A+X,A+Y),is monotonically decreasing and convex inA.Proof.We must show that ifA?B, theng(A)?g(B).  Equivalently, we show thatthe gradient?Ag(A)?0, which follows easily since?Ag(A) =((A+X)+(A+Y)2)?1?12(A+X)?1?12(A+Y)?1?0,as  the  mapX7?X?1is  operator  convex.   It  remains  to  prove  convexity  ofg.Consider therefore its Hessian?2g(A).  LetP= (A+X)?1,Q= (B+X)?1, so?2g(A) =12(P?P+Q?Q)?(P?1+Q?12)?1?(P?1+Q?12)?1.Using matrix convexity ofX7?X?1we obtain?2g(A)?12(P?P+Q?Q)?P+Q2?P+Q2=12(P?Q)?(P?Q),which is positive definite since by assumptionP?Q.Corollary 4.10.LetX,Y >0,A?0,?=?min(A).  Then,(4.16)?2S(A+X,A+Y)??2S(?I+X,?I+Y)??2S(X,Y).4.4.Conic contraction.We establish below (Theorem 4.14) a compression prop-erty for the S-Divergence, which it shares with the well-known Hilbert and Thompsonmetrics on convex cones [18, Ch.2].  We start with some preparatory results.Proposition 4.11.LetP?Cn×k(k?n)  have  full  column  rank.  The  functionf:Pn?R?X7?log det(P?XP)?log det(X)is operator decreasing.
+POSITIVE  DEFINITE  MATRICES  AND  THE  S-DIVERGENCE9Proof.It suffices to show that?f(X)?0.  This amounts to establishing that(4.17)P(P?XP)?1P??X?1?[X?1PP?P?XP]?0.Inequality (4.17) follows once we note the factorization[X?1PP?P?XP]=[I00P?][X?1IIX][I00P].Corollary 4.12.LetX,Y >0.  LetA=(X+Y2),G=X]Y;  and  letP?Cn×k(k?n) have full column rank.  Then,(4.18)det(P?AP)det(P?GP)?det(A)det(G).Proof.SinceA?G, it follows from Prop. 4.11 thatlog det(P?AP)?log det(A)?log det(P?GP)?log det(G).Rearranging, and using the fact thatP?AP?P?GP, we obtain (4.18).Theorem 4.13([1, Thm. 3]).Let? :Pn?Pkbe a positive linear map.  Then,(4.19)?(A]B)??(A)]?(B)forA,B?Pn.We are now ready to prove the main theorem of this section.Theorem 4.14.LetP?Cn×k(k?n) have full column rank.  Then,(4.20)?2S(P?AP,P?BP)??2S(A,B)forA,B?Pn.Proof.We may equivalently show that(4.21)det(P?(A+B)P2)?det(P?AP) det(P?BP)?det(A+B2)?det(AB).But Prop. 4.13 showsP?(A]B)P?(P?AP)](P?BP), which implies that1?det(P?AP) det(P?BP)=1det[(P?AP)](P?BP)]?1det(P?(A]B)P).Consequently, an invocation of Corollary 4.12 concludes the argument.Theorem 4.14 relates?Sto the classical Hilbert and Thompson metrics on convexcones, which also satisfy similar results (for the wider class of order-preserving sub-homogenous maps [18]); this explains the name “conic contraction.”  Theorem 4.14also extends to?R, as noted in Corollary 4.16, which itself follows from Theorem 4.15(we believe that this theorem must exist in the literature—see [22] for our proof).Theorem 4.15.IfA,B?Pn, andP?Cn×k(k?n) has full column rank.  Then,(4.22)??j(P?AP(P?BP)?1)???j(AB?1)for1?j?k.Corollary 4.16.LetP?Cn×k(k?n) have full column rank.  Then,(4.23)??(P?AP,P?BP)???(A,B) :=?log(B?1/2AB?1/2)??,where?is any symmetric gauge function.We conclude by noting a bi-Lipschitz-like inequality between?Sand?R.Theorem 4.17([22]).LetA,B?Pn.  Let?T(A,B) =?log(B?1/2AB?1/2)?denotethe Thompson-part metric [18].  Then, we have the following bounds(4.24)8?2S(A,B)??2R(A,B)?2?T(A,B)(?2S(A,B) +nlog 2).
+10SUVRIT SRAReferences1.T. Ando,Concavity of certain maps on positive definite matrices and applicationsto Hadamard products, Lin. Alg. Appl.26(1979), no. 0, 203–241.2.A. Banerjee, S. Merugu, I. S. Dhillon, and J. Ghosh,Clustering with BregmanDivergences, SIAM Int. Conf. on Data Mining (Florida), April 2004.3.C. Berg, J. P. R. Christensen, and P. Ressel,Harmonic analysis on semigroups:theory of positive definite and related functions, GTM, vol. 100, Springer, 1984.4.K. V. Bhagwat and R. Subramanian,Inequalities  between  means  of  positiveoperators, Math. Proc. Camb. Phil. Soc.83(1978), no. 3, 393–401.5.  R. Bhatia,Matrix Analysis, Springer, 1997.6.,Positive Definite Matrices, Princeton University Press, 2007.7.R. Bhatia and J. A. R. Holbrook,Riemannian geometry and matrix geometricmeans, Linear Algebra Appl.413(2006), 594–618.8.A. Bhattacharyya,On a measure of divergence between two statistical populationsdefined by their probability distributions, Bull. Calcutta Math. Soc.35(1943),99–109.9.P.  Bougerol,Kalman  Filtering  with  Random  Coefficients  and  Contractions,SIAM J. Control Optim.31(1993), no. 4, 942–959.10.S. Boyd and L. Vandenberghe,Convex  Optimization, Cambridge UniversityPress, March 2004.11.M. R. Bridson and A. Haeflinger,Metric  Spaces  of  Non-Positive  Curvature,Springer, 1999.12.Z.  Chebbi  and  M.  Moahker,Means  of  hermitian  positive-definite  matricesbased on the log-determinant?-divergence function, Lin. Alg. Appl.436(2012),1872–1889.13.P. Chen, Y. Chen, and M. Rao,Metrics defined by Bregman divergences:  PartI, Communications on Mathematical Sciences6(2008), 9915–926.14.A. Cherian, S. Sra, A. Banerjee, and N. Papanikolopoulos,Efficient SimilaritySearch for Covariance Matrices via the Jensen-Bregman LogDet Divergence, Int.Conf. Computer Vision (ICCV), Nov. 2011, pp. 2399–2406.15.T.  M.  Cover  and  J.  A.  Thomas,Elements  of  information  theory,  Wiley-Interscience, 1991.16.F.  Kubo  and  T.  Ando,Means  of  positive  linear  operators,  MathematischeAnnalen246(1980), 205–224.17.H.  Lee  and  Y.  Lim,Invariant  metrics,  contractions  and  nonlinear  matrixequations, Nonlinearity21(2008), 857–878.18.B. Lemmens and R. Nussbaum,Nonlinear Perron-Frobenius Theory, CambridgeUniv. Press, 2012.19.B. Mond and J.E. Pec?cari ?c.,A mixed arithmetic-mean-harmonic-mean matrixinequality, Lin. Alg. Appl.237(1996), 449–454.20.Yu.  Nesterov  and  A.  Nemirovskii,Interior-Point  Polynomial  Algorithms  inConvex Programming, SIAM, 1987.21.F. Nielsen and R. Bhatia (eds.),Matrix Information Geometry, Springer, 2013.22.S. Sra,Positive definite matrices and the S-Divergence, arXiv:1110.1773 (2011).23.S. Sra,A  new  metric  on  the  manifold  of  kernel  matrices  with  application  tomatrix geometric means, Adv. Neural Inf. Proc. Syst., December 2012.Massachusetts Institute of Technology, Cambridge, MA
